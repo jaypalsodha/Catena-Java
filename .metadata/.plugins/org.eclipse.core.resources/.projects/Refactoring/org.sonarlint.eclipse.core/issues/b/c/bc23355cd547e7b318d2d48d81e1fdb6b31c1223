@@ -1,0 +1,19 @@
+
+asquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿH¹RMINORZ
+CODE_SMELL
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾µ¦@H¸RMINORZ
+CODE_SMELL
+Isquid:S1643"Use a StringBuilder instead.(çŞøH´RMINORZ
+CODE_SMELL
+^squid:S1153"1Directly append the argument of String.valueOf().(çŞøHµRMINORZ
+CODE_SMELL
+Psquid:S1643C"Use a StringBuilder instead.(Ë¯í»8Ÿ¯ê–½-HÄRMINORZ
+CODE_SMELL
+esquid:S1153C"1Directly append the argument of String.valueOf().(Ë¯í»8Ÿ¯ê–½-HÅRMINORZ
+CODE_SMELL
+jsquid:S1153F"1Directly append the argument of String.valueOf().(€ù½ëûÿÿÿÿ8Ÿ¯ê–½-HÆRMINORZ
+CODE_SMELL
+jsquid:S1153G"1Directly append the argument of String.valueOf().(í…Ã¯şÿÿÿÿ8Ÿ¯ê–½-HÇRMINORZ
+CODE_SMELL
+]squid:S1905A")Remove this unnecessary cast to "Rental".(·Éß”8Ÿ¯ê–½-HÈRMINORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+asquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿH‹RMINORZ
+CODE_SMELL
+^squid:S1153("1Directly append the argument of String.valueOf().(°ñÁŞH‡RMINORZ
+CODE_SMELL
+n"squid:SwitchLastCaseIsDefaultCheck5""Add a default case to this switch.( İÜØıÿÿÿÿHRCRITICALZ
+CODE_SMELL
+^squid:S1153."1Directly append the argument of String.valueOf().(¨‚ğÿH‰RMINORZ
+CODE_SMELL
+Isquid:S1643("Use a StringBuilder instead.(°ñÁŞH†RMINORZ
+CODE_SMELL
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾µ¦@HŠRMINORZ
+CODE_SMELL
+^squid:S1153-"1Directly append the argument of String.valueOf().(´ÉÛ®HˆRMINORZ
+CODE_SMELL

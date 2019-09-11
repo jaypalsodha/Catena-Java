@@ -1,0 +1,16 @@
+1559368756700	Extract local variable 'addQuestion'
+1559368840646	Extract local variable 'location'
+1559385155749	Copy compilation unit
+1559389281750	Extract local variable 'forObject'
+1559390139317	Extract local variable 'exchange'
+1559398875497	Extract local variable 'string'
+1559401022099	Extract local variable 'retriveQuestionUrl'
+1559401046770	Extract local variable 'addQuestionUrl'
+1559401092582	Extract method 'createUrlWithPort'
+1559401101199	Inline local variable 'addQuestionUrl'
+1559401111269	Inline local variable 'retriveQuestionUrl'
+1559401128917	Inline local variable 'url'
+1559401136481	Inline local variable 'url'
+1559401326569	Rename local variable 'addQuestionUrl'
+1559401357258	Inline local variable 'expected'
+1559411386355	Copy compilation unit

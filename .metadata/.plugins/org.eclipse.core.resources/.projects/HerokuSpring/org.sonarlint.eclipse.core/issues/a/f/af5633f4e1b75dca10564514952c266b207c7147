@@ -1,0 +1,25 @@
+
+usquid:S4488M"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÇöÚ§HÊRMINORZ
+CODE_SMELL
+tsquid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(‰Ê¹§HËRMAJORZ
+CODE_SMELL
+|squid:S4488T"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ëëËáúÿÿÿÿHÒRMINORZ
+CODE_SMELL
+|squid:S4488;"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‡®ŠîøÿÿÿÿHÎRMINORZ
+CODE_SMELL
+tsquid:S44885"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–ÁÈpHÌRMINORZ
+CODE_SMELL
+~squid:S11928"IDefine a constant instead of duplicating this literal "add-todo" 4 times.(æ½íŒúÿÿÿÿHÏRCRITICALZ
+CODE_SMELL
+zsquid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·„ ŒøÿÿÿÿHĞRMINORZ
+CODE_SMELL
+…squid:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(ÕÙ¹³úÿÿÿÿHÔRBLOCKERZBUG
+e
+squid:S106("9Replace this use of System.out or System.err by a logger.(«‹ÎõHÍRMAJORZ
+CODE_SMELL
+Šsquid:S1192A"UDefine a constant instead of duplicating this literal "redirect:/list-todos" 3 times.(·¢„õÿÿÿÿÿHÉRCRITICALZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒãÇÔøÿÿÿÿHÓRMINORZ
+CODE_SMELL
+zsquid:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ô¤çÉÿÿÿÿÿHÑRMINORZ
+CODE_SMELL

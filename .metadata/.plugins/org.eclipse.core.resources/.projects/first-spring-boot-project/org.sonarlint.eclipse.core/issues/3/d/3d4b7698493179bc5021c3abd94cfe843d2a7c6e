@@ -1,0 +1,1357 @@
+
+‚javascript:S2873³A"VThis expression might have a value which cannot be called; it might not be a function.(ÖˆŸ½HñRMAJORZBUG
+ljavascript:S878±"5Remove use of all comma operators in this expression.(àÿÓ‰üÿÿÿÿHòRMAJORZ
+CODE_SMELL
+Tjavascript:S878ÙR""Remove use of this comma operator.(šÆ‹HóRMAJORZ
+CODE_SMELL
+Tjavascript:S878‹""Remove use of this comma operator.(æ¯Ü¡HôRMAJORZ
+CODE_SMELL
+ljavascript:S878ç."5Remove use of all comma operators in this expression.(×ß£şÿÿÿÿHõRMAJORZ
+CODE_SMELL
+‚javascript:S2873£F"VThis expression might have a value which cannot be called; it might not be a function.(¤¡ë‘HöRMAJORZBUG
+Yjavascript:S878‹]""Remove use of this comma operator.(Àã‹üÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+Yjavascript:S878¥@""Remove use of this comma operator.(–èçÕşÿÿÿÿHøRMAJORZ
+CODE_SMELL
+‡javascript:S2873¬H"VThis expression might have a value which cannot be called; it might not be a function.(È‹½üÿÿÿÿHùRMAJORZBUG
+Yjavascript:S878¥""Remove use of this comma operator.(ĞÇ¯¬ùÿÿÿÿHúRMAJORZ
+CODE_SMELL
+‡javascript:S2873ï;"VThis expression might have a value which cannot be called; it might not be a function.(¶àıüÿÿÿÿHûRMAJORZBUG
+Yjavascript:S8785""Remove use of this comma operator.(š¥ÔáÿÿÿÿÿHüRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ö1""Remove use of this comma operator.(°ÍÃÿøÿÿÿÿHıRMAJORZ
+CODE_SMELL
+gjavascript:S878£6"5Remove use of all comma operators in this expression.(È°HşRMAJORZ
+CODE_SMELL
+Yjavascript:S878ø6""Remove use of this comma operator.(×Â¬øÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+Yjavascript:S878ê.""Remove use of this comma operator.(ıÍºÏşÿÿÿÿH€RMAJORZ
+CODE_SMELL
+Sjavascript:S878ã3""Remove use of this comma operator.(Ë·oHRMAJORZ
+CODE_SMELL
+gjavascript:S878†"5Remove use of all comma operators in this expression.(¥şŒüH‚RMAJORZ
+CODE_SMELL
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’HƒRMAJORZ
+CODE_SMELL
+gjavascript:S878¨;"5Remove use of all comma operators in this expression.(³‰’œH„RMAJORZ
+CODE_SMELL
+Tjavascript:S878–""Remove use of this comma operator.(˜ÙâªH…RMAJORZ
+CODE_SMELL
+Tjavascript:S878øS""Remove use of this comma operator.(¼©äH†RMAJORZ
+CODE_SMELL
+Tjavascript:S878çc""Remove use of this comma operator.(©âÄáH‡RMAJORZ
+CODE_SMELL
+Tjavascript:S878ö=""Remove use of this comma operator.(¹Ç”°HˆRMAJORZ
+CODE_SMELL
+Yjavascript:S878™/""Remove use of this comma operator.(…‹óŒşÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+ljavascript:S878’f"5Remove use of all comma operators in this expression.( €éüÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+‡javascript:S2873Æ="VThis expression might have a value which cannot be called; it might not be a function.(±®ùŸÿÿÿÿÿH‹RMAJORZBUG
+gjavascript:S878ÿ5"5Remove use of all comma operators in this expression.(½çíùHŒRMAJORZ
+CODE_SMELL
+Yjavascript:S878„""Remove use of this comma operator.(³Ù±ŸüÿÿÿÿHRMAJORZ
+CODE_SMELL
+‡javascript:S2873€C"VThis expression might have a value which cannot be called; it might not be a function.(ÒüüûÿÿÿÿHRMAJORZBUG
+gjavascript:S878Û"5Remove use of all comma operators in this expression.(ê™ä‹HRMAJORZ
+CODE_SMELL
+ljavascript:S878Y"5Remove use of all comma operators in this expression.(ãËºÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ş<""Remove use of this comma operator.(¢—™‡H‘RMAJORZ
+CODE_SMELL
+Tjavascript:S878»:""Remove use of this comma operator.(ƒÜ ¾H’RMAJORZ
+CODE_SMELL
+fjavascript:S878ÁY"5Remove use of all comma operators in this expression.(à¾‰gH“RMAJORZ
+CODE_SMELL
+ljavascript:S878 "5Remove use of all comma operators in this expression.(±ä··ùÿÿÿÿH”RMAJORZ
+CODE_SMELL
+Sjavascript:S878´
+""Remove use of this comma operator.(àÀç+H•RMAJORZ
+CODE_SMELL
+ljavascript:S878Á["5Remove use of all comma operators in this expression.(‹Õ›òıÿÿÿÿH–RMAJORZ
+CODE_SMELL
+ljavascript:S878±H"5Remove use of all comma operators in this expression.(¬¬Š²úÿÿÿÿH—RMAJORZ
+CODE_SMELL
+‰javascript:S3699ô"XRemove this use of the output from this function; this function doesn't return anything.(‚ï­ÒûÿÿÿÿH˜RMAJORZBUG
+fjavascript:S878ƒ@"5Remove use of all comma operators in this expression.(ø¡Ò!H™RMAJORZ
+CODE_SMELL
+Tjavascript:S878ß""Remove use of this comma operator.(º™‚³HšRMAJORZ
+CODE_SMELL
+Tjavascript:S878×8""Remove use of this comma operator.(†²®ŸH›RMAJORZ
+CODE_SMELL
+gjavascript:S878‰S"5Remove use of all comma operators in this expression.(øø†°HœRMAJORZ
+CODE_SMELL
+Tjavascript:S878»8""Remove use of this comma operator.(†²®ŸHRMAJORZ
+CODE_SMELL
+ljavascript:S878á>"5Remove use of all comma operators in this expression.(«„ÜœşÿÿÿÿHRMAJORZ
+CODE_SMELL
+ljavascript:S878İA"5Remove use of all comma operators in this expression.(¦–åæÿÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+Yjavascript:S878‡""Remove use of this comma operator.(ÇŠ•ŠÿÿÿÿÿH RMAJORZ
+CODE_SMELL
+ljavascript:S878ÉN"5Remove use of all comma operators in this expression.(ö…İûÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+ljavascript:S878½-"5Remove use of all comma operators in this expression.(¼æª±øÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+Yjavascript:S878ü1""Remove use of this comma operator.(Ù®“¢ÿÿÿÿÿH£RMAJORZ
+CODE_SMELL
+Yjavascript:S878¥4""Remove use of this comma operator.(«©–ÿÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+Yjavascript:S878İ""Remove use of this comma operator.(Óè˜ùÿÿÿÿH¥RMAJORZ
+CODE_SMELL
+Yjavascript:S878¾	""Remove use of this comma operator.(áÀ¤³ùÿÿÿÿH¦RMAJORZ
+CODE_SMELL
+ljavascript:S878Ï"5Remove use of all comma operators in this expression.(Ş×©ãüÿÿÿÿH§RMAJORZ
+CODE_SMELL
+‡javascript:S2873©M"VThis expression might have a value which cannot be called; it might not be a function.(¶àıüÿÿÿÿH¨RMAJORZBUG
+gjavascript:S878£3"5Remove use of all comma operators in this expression.(ÖÆ²»H©RMAJORZ
+CODE_SMELL
+Sjavascript:S878G""Remove use of this comma operator.(†ÑãHªRMAJORZ
+CODE_SMELL
+Yjavascript:S878‡b""Remove use of this comma operator.(ï¼‰ÓıÿÿÿÿH«RMAJORZ
+CODE_SMELL
+Tjavascript:S878ŞS""Remove use of this comma operator.(ÖˆŸ½H¬RMAJORZ
+CODE_SMELL
+Tjavascript:S878‰c""Remove use of this comma operator.(ãÂ¹ìH­RMAJORZ
+CODE_SMELL
+gjavascript:S878÷e"5Remove use of all comma operators in this expression.(‰Íú•H®RMAJORZ
+CODE_SMELL
+Sjavascript:S878ëQ""Remove use of this comma operator.(’¢’3H¯RMAJORZ
+CODE_SMELL
+Tjavascript:S878¹-""Remove use of this comma operator.(¤êßšH°RMAJORZ
+CODE_SMELL
+Tjavascript:S878„6""Remove use of this comma operator.(ù€•äH±RMAJORZ
+CODE_SMELL
+Yjavascript:S878œG""Remove use of this comma operator.(»œ¹ŸùÿÿÿÿH²RMAJORZ
+CODE_SMELL
+Yjavascript:S878šC""Remove use of this comma operator.(şÓ‹ÂÿÿÿÿÿH³RMAJORZ
+CODE_SMELL
+Yjavascript:S878óD""Remove use of this comma operator.(µŞšşÿÿÿÿH´RMAJORZ
+CODE_SMELL
+‡javascript:S2873ñP"VThis expression might have a value which cannot be called; it might not be a function.(Í‡•şÿÿÿÿHµRMAJORZBUG
+gjavascript:S878şH"5Remove use of all comma operators in this expression.(ñ›ÑóH¶RMAJORZ
+CODE_SMELL
+javascript:S2589¬"LRefactor this code so that this expression does not always evaluate to true.(“İ«¼H·RMAJORZ
+CODE_SMELL
+Tjavascript:S878ÉF""Remove use of this comma operator.(·ĞÈÒH¸RMAJORZ
+CODE_SMELL
+ljavascript:S878­f"5Remove use of all comma operators in this expression.(¶¹ë¶şÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+ljavascript:S878À"5Remove use of all comma operators in this expression.(ùêâ¢øÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Tjavascript:S878àA""Remove use of this comma operator.(ï¿ß™H»RMAJORZ
+CODE_SMELL
+Yjavascript:S878ƒ=""Remove use of this comma operator.(¶µÕƒüÿÿÿÿH¼RMAJORZ
+CODE_SMELL
+ljavascript:S878ÜR"5Remove use of all comma operators in this expression.(³’ŒüÿÿÿÿH½RMAJORZ
+CODE_SMELL
+fjavascript:S878Ù"5Remove use of all comma operators in this expression.(¨Õ„KH¾RMAJORZ
+CODE_SMELL
+‡javascript:S2873ä"VThis expression might have a value which cannot be called; it might not be a function.(ô…°²ùÿÿÿÿH¿RMAJORZBUG
+ljavascript:S878ª"5Remove use of all comma operators in this expression.(¹î¹úÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+‡javascript:S2873ÎU"VThis expression might have a value which cannot be called; it might not be a function.(–œ±ÍûÿÿÿÿHÁRMAJORZBUG
+gjavascript:S878÷g"5Remove use of all comma operators in this expression.(¨äÖÏHÂRMAJORZ
+CODE_SMELL
+Tjavascript:S878ÿc""Remove use of this comma operator.(„­Ñ±HÃRMAJORZ
+CODE_SMELL
+‚javascript:S2873­"VThis expression might have a value which cannot be called; it might not be a function.(Ü¿½HÄRMAJORZBUG
+‚javascript:S2873Ü"VThis expression might have a value which cannot be called; it might not be a function.(‚¿ÆÏHÅRMAJORZBUG
+Yjavascript:S878Û`""Remove use of this comma operator.(ÂÍğşÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+‡javascript:S2873ä"VThis expression might have a value which cannot be called; it might not be a function.(ô…°²ùÿÿÿÿHÇRMAJORZBUG
+ljavascript:S878ûH"5Remove use of all comma operators in this expression.(ÈÓ¨’øÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+gjavascript:S878ù`"5Remove use of all comma operators in this expression.(­ÿ­HÉRMAJORZ
+CODE_SMELL
+Yjavascript:S878™1""Remove use of this comma operator.(ÇşŞªøÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+Tjavascript:S878Æ""Remove use of this comma operator.(áòÁûHËRMAJORZ
+CODE_SMELL
+ljavascript:S878ôg"5Remove use of all comma operators in this expression.(Ÿ‰­¼ùÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+gjavascript:S878ú>"5Remove use of all comma operators in this expression.(ßŒõÆHÍRMAJORZ
+CODE_SMELL
+ljavascript:S878˜P"5Remove use of all comma operators in this expression.(è“ğÌûÿÿÿÿHÎRMAJORZ
+CODE_SMELL
+Yjavascript:S878¹/""Remove use of this comma operator.(ÇÙŸõıÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+Yjavascript:S878³M""Remove use of this comma operator.(úç¬€üÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+‡javascript:S2873¥E"VThis expression might have a value which cannot be called; it might not be a function.(àëİ™øÿÿÿÿHÑRMAJORZBUG
+Tjavascript:S878Æ;""Remove use of this comma operator.(‚ÎHÒRMAJORZ
+CODE_SMELL
+Yjavascript:S878›V""Remove use of this comma operator.(òïµêÿÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+‡javascript:S2873ĞN"VThis expression might have a value which cannot be called; it might not be a function.(ŠúëêüÿÿÿÿHÔRMAJORZBUG
+Tjavascript:S878ÑU""Remove use of this comma operator.(˜—êãHÕRMAJORZ
+CODE_SMELL
+‡javascript:S2873è]"VThis expression might have a value which cannot be called; it might not be a function.(±Æ÷İøÿÿÿÿHÖRMAJORZBUG
+Yjavascript:S878€""Remove use of this comma operator.(’òÉÅúÿÿÿÿH×RMAJORZ
+CODE_SMELL
+Yjavascript:S878™V""Remove use of this comma operator.(ËãìûÿÿÿÿÿHØRMAJORZ
+CODE_SMELL
+Tjavascript:S878²E""Remove use of this comma operator.(“°áĞHÙRMAJORZ
+CODE_SMELL
+Yjavascript:S878¢""Remove use of this comma operator.(òÜšíÿÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+ljavascript:S878Ê_"5Remove use of all comma operators in this expression.(”ìÛĞüÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+qjavascript:S1854³C">Remove this useless assignment to local variable "mainCircles"(ÌäŞÊHÜRMAJORZ
+CODE_SMELL
+‡javascript:S2873±H"VThis expression might have a value which cannot be called; it might not be a function.(¬¬Š²úÿÿÿÿHİRMAJORZBUG
+Yjavascript:S878¹F""Remove use of this comma operator.(§Ãş¢ÿÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+”javascript:S3973‚Q"YUse curly braces or indentation to denote the code conditionally executed by this "else".(µ¼½„øÿÿÿÿHßRCRITICALZ
+CODE_SMELL
+ljavascript:S878¹/"5Remove use of all comma operators in this expression.(ÇÙŸõıÿÿÿÿHàRMAJORZ
+CODE_SMELL
+Tjavascript:S878„.""Remove use of this comma operator.(ËäÊêHáRMAJORZ
+CODE_SMELL
+gjavascript:S878‚\"5Remove use of all comma operators in this expression.(ÄË©ÕHâRMAJORZ
+CODE_SMELL
+‡javascript:S2873„"VThis expression might have a value which cannot be called; it might not be a function.(€û“ûÿÿÿÿHãRMAJORZBUG
+Yjavascript:S878ÆC""Remove use of this comma operator.(Ôšî×ùÿÿÿÿHäRMAJORZ
+CODE_SMELL
+‚javascript:S2873¢R"VThis expression might have a value which cannot be called; it might not be a function.(“‹û“HåRMAJORZBUG
+‚javascript:S2873å]"VThis expression might have a value which cannot be called; it might not be a function.(Œô³õHæRMAJORZBUG
+‡javascript:S2873óR"VThis expression might have a value which cannot be called; it might not be a function.(À‡ƒ¦øÿÿÿÿHçRMAJORZBUG
+Yjavascript:S878ƒ=""Remove use of this comma operator.(¶µÕƒüÿÿÿÿHèRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ö""Remove use of this comma operator.(åûºøøÿÿÿÿHéRMAJORZ
+CODE_SMELL
+Tjavascript:S878üV""Remove use of this comma operator.(öù¿HêRMAJORZ
+CODE_SMELL
+Tjavascript:S878Í""Remove use of this comma operator.(„Èú¤HëRMAJORZ
+CODE_SMELL
+‚javascript:S2873ìQ"VThis expression might have a value which cannot be called; it might not be a function.(ÿÏİHìRMAJORZBUG
+ljavascript:S878½7"5Remove use of all comma operators in this expression.(êÊı¢ùÿÿÿÿHíRMAJORZ
+CODE_SMELL
+gjavascript:S878ö="5Remove use of all comma operators in this expression.(¹Ç”°HîRMAJORZ
+CODE_SMELL
+Tjavascript:S878øS""Remove use of this comma operator.(¼©äHïRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ã8""Remove use of this comma operator.(²£ñHğRMAJORZ
+CODE_SMELL
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’HñRMAJORZ
+CODE_SMELL
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’HòRMAJORZ
+CODE_SMELL
+Yjavascript:S878€""Remove use of this comma operator.(¶¸ªßÿÿÿÿÿHóRMAJORZ
+CODE_SMELL
+Tjavascript:S878ç7""Remove use of this comma operator.(ôş£ªHôRMAJORZ
+CODE_SMELL
+Tjavascript:S878µ;""Remove use of this comma operator.(Ê‰Ï€HõRMAJORZ
+CODE_SMELL
+‚javascript:S2873¦V"VThis expression might have a value which cannot be called; it might not be a function.(ìäãÒHöRMAJORZBUG
+^javascript:S930ğ<"0"floor" expects 1 argument, but 2 were provided.(¡²ù‡H÷RCRITICALZBUG
+Tjavascript:S878Ú0""Remove use of this comma operator.(èÛ¶HøRMAJORZ
+CODE_SMELL
+Tjavascript:S878ø]""Remove use of this comma operator.(³ïòïHùRMAJORZ
+CODE_SMELL
+gjavascript:S878—V"5Remove use of all comma operators in this expression.(œ¼´æHúRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ÿ2""Remove use of this comma operator.(ÍæÑîHûRMAJORZ
+CODE_SMELL
+Yjavascript:S878¢6""Remove use of this comma operator.(ü²ˆ¸ûÿÿÿÿHüRMAJORZ
+CODE_SMELL
+gjavascript:S878ç7"5Remove use of all comma operators in this expression.(ôş£ªHıRMAJORZ
+CODE_SMELL
+gjavascript:S878È7"5Remove use of all comma operators in this expression.(ŒåõàHşRMAJORZ
+CODE_SMELL
+gjavascript:S878çM"5Remove use of all comma operators in this expression.(ÓÉè©HÿRMAJORZ
+CODE_SMELL
+gjavascript:S878Õ5"5Remove use of all comma operators in this expression.(ì©•·H€RMAJORZ
+CODE_SMELL
+Sjavascript:S878Î7""Remove use of this comma operator.(ÉËÒHRMAJORZ
+CODE_SMELL
+‚javascript:S2873ŞS"VThis expression might have a value which cannot be called; it might not be a function.(ÖˆŸ½H‚RMAJORZBUG
+{javascript:UnusedVariableÿg":Remove the declaration of the unused 'billboard' variable.(Šò¹”øÿÿÿÿHƒRMINORZ
+CODE_SMELL
+Yjavascript:S878ñ.""Remove use of this comma operator.(¥¸€ÀøÿÿÿÿH„RMAJORZ
+CODE_SMELL
+gjavascript:S878¢;"5Remove use of all comma operators in this expression.( çÜ©H…RMAJORZ
+CODE_SMELL
+‡javascript:S2873Ë-"VThis expression might have a value which cannot be called; it might not be a function.(•¦Ã•øÿÿÿÿH†RMAJORZBUG
+ljavascript:S878ßM"5Remove use of all comma operators in this expression.(İ¤Ö«üÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+Yjavascript:S878®<""Remove use of this comma operator.(‚†ôıøÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+Yjavascript:S878¢""Remove use of this comma operator.(òÜšíÿÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+Yjavascript:S878²""Remove use of this comma operator.(‰ËáˆüÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+gjavascript:S878Ò4"5Remove use of all comma operators in this expression.(‚™«îH‹RMAJORZ
+CODE_SMELL
+Sjavascript:S878âV""Remove use of this comma operator.(¸ç£NHŒRMAJORZ
+CODE_SMELL
+‡javascript:S2873³M"VThis expression might have a value which cannot be called; it might not be a function.(úç¬€üÿÿÿÿHRMAJORZBUG
+ojavascript:S1854Ši"7Remove this useless assignment to local variable "core"(Ğ•ÔíşÿÿÿÿHRMAJORZ
+CODE_SMELL
+gjavascript:S878Ä"5Remove use of all comma operators in this expression.(ëòĞ«HRMAJORZ
+CODE_SMELL
+gjavascript:S878Ô"5Remove use of all comma operators in this expression.(‹²»ûHRMAJORZ
+CODE_SMELL
+fjavascript:S878‡M"5Remove use of all comma operators in this expression.(ëÔèH‘RMAJORZ
+CODE_SMELL
+Tjavascript:S878©""Remove use of this comma operator.(Ş°—ŒH’RMAJORZ
+CODE_SMELL
+Tjavascript:S878±e""Remove use of this comma operator.(îÕïH“RMAJORZ
+CODE_SMELL
+Yjavascript:S878­/""Remove use of this comma operator.(¢ìğÙşÿÿÿÿH”RMAJORZ
+CODE_SMELL
+Tjavascript:S878ŞJ""Remove use of this comma operator.(ŠÁÎöH•RMAJORZ
+CODE_SMELL
+gjavascript:S878¬	"5Remove use of all comma operators in this expression.(Œ‹”¨H–RMAJORZ
+CODE_SMELL
+ljavascript:S878²]"5Remove use of all comma operators in this expression.(éö›ôÿÿÿÿÿH—RMAJORZ
+CODE_SMELL
+Tjavascript:S878âd""Remove use of this comma operator.(·¯ã¬H˜RMAJORZ
+CODE_SMELL
+‡javascript:S2873ÍB"VThis expression might have a value which cannot be called; it might not be a function.(Ç»Â‹ıÿÿÿÿH™RMAJORZBUG
+Tjavascript:S878×""Remove use of this comma operator.(å°Ó‹HšRMAJORZ
+CODE_SMELL
+Yjavascript:S878¦0""Remove use of this comma operator.(ï¤”ÛùÿÿÿÿH›RMAJORZ
+CODE_SMELL
+Yjavascript:S878¦]""Remove use of this comma operator.(¦üÑ»ÿÿÿÿÿHœRMAJORZ
+CODE_SMELL
+ljavascript:S878„U"5Remove use of all comma operators in this expression.(ƒ·¬ÈüÿÿÿÿHRMAJORZ
+CODE_SMELL
+Yjavascript:S878îM""Remove use of this comma operator.(º¾¥ŸúÿÿÿÿHRMAJORZ
+CODE_SMELL
+gjavascript:S878í"5Remove use of all comma operators in this expression.(ã´ûHŸRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ëc""Remove use of this comma operator.(ÿÈ¸ğH RMAJORZ
+CODE_SMELL
+gjavascript:S878äe"5Remove use of all comma operators in this expression.(Ùşê‚H¡RMAJORZ
+CODE_SMELL
+‡javascript:S2873Ê;"VThis expression might have a value which cannot be called; it might not be a function.(×¹ß£ÿÿÿÿÿH¢RMAJORZBUG
+ljavascript:S878ô"5Remove use of all comma operators in this expression.(‚ï­ÒûÿÿÿÿH£RMAJORZ
+CODE_SMELL
+Yjavascript:S878ôA""Remove use of this comma operator.(ÂÚşÍÿÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+Tjavascript:S878Œ	""Remove use of this comma operator.(»ÚÚH¥RMAJORZ
+CODE_SMELL
+gjavascript:S878”
+"5Remove use of all comma operators in this expression.(û…‘ÍH¦RMAJORZ
+CODE_SMELL
+ljavascript:S878°="5Remove use of all comma operators in this expression.(²‚Ù¥üÿÿÿÿH§RMAJORZ
+CODE_SMELL
+Yjavascript:S878€5""Remove use of this comma operator.(´ª©ÔúÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+Yjavascript:S878¯R""Remove use of this comma operator.(·¤•¾øÿÿÿÿH©RMAJORZ
+CODE_SMELL
+Tjavascript:S878½""Remove use of this comma operator.(å¹Š¥HªRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ş""Remove use of this comma operator.(ûˆà×H«RMAJORZ
+CODE_SMELL
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’H¬RMAJORZ
+CODE_SMELL
+Tjavascript:S878àA""Remove use of this comma operator.(ï¿ß™H­RMAJORZ
+CODE_SMELL
+gjavascript:S878ÁD"5Remove use of all comma operators in this expression.(ø£’H®RMAJORZ
+CODE_SMELL
+‡javascript:S2873é]"VThis expression might have a value which cannot be called; it might not be a function.(‚‹öÑşÿÿÿÿH¯RMAJORZBUG
+Yjavascript:S878ó<""Remove use of this comma operator.(ã†ÑíÿÿÿÿÿH°RMAJORZ
+CODE_SMELL
+gjavascript:S878İS"5Remove use of all comma operators in this expression.(€„ßÂH±RMAJORZ
+CODE_SMELL
+ljavascript:S878ÖU"5Remove use of all comma operators in this expression.(¶°òİøÿÿÿÿH²RMAJORZ
+CODE_SMELL
+‡javascript:S2873É7"VThis expression might have a value which cannot be called; it might not be a function.(¸ã‘øşÿÿÿÿH³RMAJORZBUG
+fjavascript:S878€."5Remove use of all comma operators in this expression.(ç¨¥YH´RMAJORZ
+CODE_SMELL
+Yjavascript:S878à""Remove use of this comma operator.(Ú‚ÂÂÿÿÿÿÿHµRMAJORZ
+CODE_SMELL
+Yjavascript:S878ß;""Remove use of this comma operator.(ğÖ‡ˆøÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+Yjavascript:S878ˆ1""Remove use of this comma operator.(«ËæÎıÿÿÿÿH·RMAJORZ
+CODE_SMELL
+ljavascript:S878]"5Remove use of all comma operators in this expression.(«êéÇıÿÿÿÿH¸RMAJORZ
+CODE_SMELL
+u'javascript:FunctionDefinitionInsideLoopR"'Define this function outside of a loop.(ÇÜ¿øÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+Yjavascript:S878“0""Remove use of this comma operator.(´ñ¬®øÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Tjavascript:S878º""Remove use of this comma operator.(¤ºœH»RMAJORZ
+CODE_SMELL
+Tjavascript:S878×""Remove use of this comma operator.(ëºôÑH¼RMAJORZ
+CODE_SMELL
+Yjavascript:S878ş""Remove use of this comma operator.(Úê‚ĞúÿÿÿÿH½RMAJORZ
+CODE_SMELL
+Yjavascript:S878ò6""Remove use of this comma operator.(•Æ­ÇúÿÿÿÿH¾RMAJORZ
+CODE_SMELL
+sjavascript:S1854ôP";Remove this useless assignment to local variable "isWithin"(ÄÈ ¹ùÿÿÿÿH¿RMAJORZ
+CODE_SMELL
+Tjavascript:S878³A""Remove use of this comma operator.(ÖˆŸ½HÀRMAJORZ
+CODE_SMELL
+Yjavascript:S878’9""Remove use of this comma operator.(ÄüöŞøÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+gjavascript:S878ñR"5Remove use of all comma operators in this expression.( ²¯§HÂRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÈV""Remove use of this comma operator.(Ú‹˜ÛşÿÿÿÿHÃRMAJORZ
+CODE_SMELL
+Tjavascript:S878üV""Remove use of this comma operator.(öù¿HÄRMAJORZ
+CODE_SMELL
+ljavascript:S878…^"5Remove use of all comma operators in this expression.(’§üÿÿÿÿHÅRMAJORZ
+CODE_SMELL
+gjavascript:S878f"5Remove use of all comma operators in this expression.(ÚıÑ©HÆRMAJORZ
+CODE_SMELL
+Yjavascript:S878È.""Remove use of this comma operator.(µ‡ŒÏÿÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+Yjavascript:S878­f""Remove use of this comma operator.(¶¹ë¶şÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+‚javascript:S2873ÖT"VThis expression might have a value which cannot be called; it might not be a function.(·Æ¼™HÉRMAJORZBUG
+Tjavascript:S878´E""Remove use of this comma operator.(Ñ÷Œ’HÊRMAJORZ
+CODE_SMELL
+Yjavascript:S878–/""Remove use of this comma operator.(µóºÿÿÿÿÿHËRMAJORZ
+CODE_SMELL
+Yjavascript:S878öN""Remove use of this comma operator.(¹û˜€ıÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+javascript:S2873³^"VThis expression might have a value which cannot be called; it might not be a function.(ìˆQHÍRMAJORZBUG
+gjavascript:S878±S"5Remove use of all comma operators in this expression.(«ß¯ñHÎRMAJORZ
+CODE_SMELL
+Yjavascript:S878¶.""Remove use of this comma operator.(§†ÖÙûÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+gjavascript:S878^"5Remove use of all comma operators in this expression.(¦ƒúöHĞRMAJORZ
+CODE_SMELL
+Tjavascript:S878¡I""Remove use of this comma operator.(€×Š¾HÑRMAJORZ
+CODE_SMELL
+}javascript:UnusedVariableÈe"<Remove the declaration of the unused 'browser_doc' variable.(·íœşÿÿÿÿHÒRMINORZ
+CODE_SMELL
+Yjavascript:S878ùQ""Remove use of this comma operator.(›÷†ÍûÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+gjavascript:S878ú."5Remove use of all comma operators in this expression.(ıËö‡HÔRMAJORZ
+CODE_SMELL
+Yjavascript:S878‹7""Remove use of this comma operator.(ª‘×åşÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+‚javascript:S2873ÎB"VThis expression might have a value which cannot be called; it might not be a function.(»ğ¤×HÖRMAJORZBUG
+Yjavascript:S878ó""Remove use of this comma operator.(€‚ÛŞùÿÿÿÿH×RMAJORZ
+CODE_SMELL
+‡javascript:S2873âR"VThis expression might have a value which cannot be called; it might not be a function.(Ş§Ñ—øÿÿÿÿHØRMAJORZBUG
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’HÙRMAJORZ
+CODE_SMELL
+gjavascript:S878‡6"5Remove use of all comma operators in this expression.(ˆêƒÀHÚRMAJORZ
+CODE_SMELL
+‡javascript:S2873õ^"VThis expression might have a value which cannot be called; it might not be a function.(¨Á¡¼şÿÿÿÿHÛRMAJORZBUG
+Tjavascript:S878Â9""Remove use of this comma operator.(ˆ´ĞÃHÜRMAJORZ
+CODE_SMELL
+Tjavascript:S878õ4""Remove use of this comma operator.(îø‹øHİRMAJORZ
+CODE_SMELL
+gjavascript:S878ÜF"5Remove use of all comma operators in this expression.(õÈ¦ªHŞRMAJORZ
+CODE_SMELL
+Yjavascript:S878„U""Remove use of this comma operator.(ƒ·¬ÈüÿÿÿÿHßRMAJORZ
+CODE_SMELL
+Yjavascript:S878¶>""Remove use of this comma operator.(ØÌ«ÀùÿÿÿÿHàRMAJORZ
+CODE_SMELL
+gjavascript:S878—T"5Remove use of all comma operators in this expression.(ôÍç©HáRMAJORZ
+CODE_SMELL
+Tjavascript:S878è3""Remove use of this comma operator.(ô–ôHâRMAJORZ
+CODE_SMELL
+Yjavascript:S878íF""Remove use of this comma operator.(¯ÇÃœúÿÿÿÿHãRMAJORZ
+CODE_SMELL
+Yjavascript:S878ö""Remove use of this comma operator.(µÛÜ€úÿÿÿÿHäRMAJORZ
+CODE_SMELL
+ljavascript:S878ºV"5Remove use of all comma operators in this expression.(¨¹ã£üÿÿÿÿHåRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ù:""Remove use of this comma operator.(§Ìú€úÿÿÿÿHæRMAJORZ
+CODE_SMELL
+gjavascript:S878êH"5Remove use of all comma operators in this expression.(Ì¤øHçRMAJORZ
+CODE_SMELL
+‡javascript:S2873·F"VThis expression might have a value which cannot be called; it might not be a function.(êŒ›´ùÿÿÿÿHèRMAJORZBUG
+ljavascript:S878¥U"5Remove use of all comma operators in this expression.(ãŸîÎüÿÿÿÿHéRMAJORZ
+CODE_SMELL
+ljavascript:S878¦/"5Remove use of all comma operators in this expression.(êÜñ“üÿÿÿÿHêRMAJORZ
+CODE_SMELL
+Yjavascript:S878™/""Remove use of this comma operator.(…‹óŒşÿÿÿÿHëRMAJORZ
+CODE_SMELL
+ljavascript:S878É7"5Remove use of all comma operators in this expression.(¸ã‘øşÿÿÿÿHìRMAJORZ
+CODE_SMELL
+Sjavascript:S878À]""Remove use of this comma operator.(‰®ümHíRMAJORZ
+CODE_SMELL
+Yjavascript:S878„U""Remove use of this comma operator.(ƒ·¬ÈüÿÿÿÿHîRMAJORZ
+CODE_SMELL
+Yjavascript:S878îM""Remove use of this comma operator.(º¾¥ŸúÿÿÿÿHïRMAJORZ
+CODE_SMELL
+‡javascript:S2873="VThis expression might have a value which cannot be called; it might not be a function.(ÖÇ¤‹øÿÿÿÿHğRMAJORZBUG
+vjavascript:S1854·C">Remove this useless assignment to local variable "mainCircles"(‚‘€—úÿÿÿÿHñRMAJORZ
+CODE_SMELL
+Tjavascript:S878¦@""Remove use of this comma operator.(õ‰çûHòRMAJORZ
+CODE_SMELL
+Tjavascript:S878ù.""Remove use of this comma operator.(§¶àÀHóRMAJORZ
+CODE_SMELL
+Yjavascript:S878€2""Remove use of this comma operator.(¾¾œ²şÿÿÿÿHôRMAJORZ
+CODE_SMELL
+Yjavascript:S878 4""Remove use of this comma operator.(ÁØ€ÿÿÿÿÿHõRMAJORZ
+CODE_SMELL
+ljavascript:S8786"5Remove use of all comma operators in this expression.(¿ûâÌûÿÿÿÿHöRMAJORZ
+CODE_SMELL
+Yjavascript:S878›1""Remove use of this comma operator.(©¬ï™úÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+Yjavascript:S878÷""Remove use of this comma operator.(øæÉëıÿÿÿÿHøRMAJORZ
+CODE_SMELL
+javascript:S2589´
+"MRefactor this code so that this expression does not always evaluate to false.(àÀç+HùRMAJORZ
+CODE_SMELL
+‚javascript:S2873ûL"VThis expression might have a value which cannot be called; it might not be a function.(¥èÊµHúRMAJORZBUG
+ljavascript:S878•_"5Remove use of all comma operators in this expression.(™†åÖşÿÿÿÿHûRMAJORZ
+CODE_SMELL
+ljavascript:S878êT"5Remove use of all comma operators in this expression.(¯ºŠªüÿÿÿÿHüRMAJORZ
+CODE_SMELL
+Yjavascript:S878ºa""Remove use of this comma operator.(ÂÍğşÿÿÿÿHıRMAJORZ
+CODE_SMELL
+Yjavascript:S878ç""Remove use of this comma operator.(ì¢ÄÂıÿÿÿÿHşRMAJORZ
+CODE_SMELL
+ljavascript:S878ò]"5Remove use of all comma operators in this expression.(ö¿ï›ùÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+Tjavascript:S878Å.""Remove use of this comma operator.(ì­ğŸH€RMAJORZ
+CODE_SMELL
+€javascript:S2814„A"HRename "style" as this name is already used in declaration at line 8284.(“ñ£ÒÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+Yjavascript:S878÷K""Remove use of this comma operator.(æ¥Î«şÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+Tjavascript:S878Ö""Remove use of this comma operator.(›¡­HƒRMAJORZ
+CODE_SMELL
+ljavascript:S878±J"5Remove use of all comma operators in this expression.(Ç‹¼ŒùÿÿÿÿH„RMAJORZ
+CODE_SMELL
+Yjavascript:S878½=""Remove use of this comma operator.(ëÿáàüÿÿÿÿH…RMAJORZ
+CODE_SMELL
+ljavascript:S878ÄO"5Remove use of all comma operators in this expression.(“¤«ôüÿÿÿÿH†RMAJORZ
+CODE_SMELL
+Tjavascript:S878ç""Remove use of this comma operator.(î ²€H‡RMAJORZ
+CODE_SMELL
+ljavascript:S878°9"5Remove use of all comma operators in this expression.(úÿ´üÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+Tjavascript:S878ç7""Remove use of this comma operator.(ôş£ªH‰RMAJORZ
+CODE_SMELL
+‚javascript:S2873ß8"VThis expression might have a value which cannot be called; it might not be a function.(¸ ÛHŠRMAJORZBUG
+Tjavascript:S878¶=""Remove use of this comma operator.(öó€ÿH‹RMAJORZ
+CODE_SMELL
+‡javascript:S2873ªR"VThis expression might have a value which cannot be called; it might not be a function.(ºèÓœúÿÿÿÿHŒRMAJORZBUG
+Yjavascript:S878º<""Remove use of this comma operator.(ºâª¯şÿÿÿÿHRMAJORZ
+CODE_SMELL
+ljavascript:S878šK"5Remove use of all comma operators in this expression.(ıÏ…½ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÔR""Remove use of this comma operator.(éœ–ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+gjavascript:S878Ü?"5Remove use of all comma operators in this expression.(ùãàˆHRMAJORZ
+CODE_SMELL
+Tjavascript:S878Q""Remove use of this comma operator.(Úñ—¹H‘RMAJORZ
+CODE_SMELL
+Yjavascript:S878¸a""Remove use of this comma operator.( È›§øÿÿÿÿH’RMAJORZ
+CODE_SMELL
+Yjavascript:S878™/""Remove use of this comma operator.(…‹óŒşÿÿÿÿH“RMAJORZ
+CODE_SMELL
+Tjavascript:S878¼""Remove use of this comma operator.(œääµH”RMAJORZ
+CODE_SMELL
+Yjavascript:S878ÔM""Remove use of this comma operator.(óÍì±üÿÿÿÿH•RMAJORZ
+CODE_SMELL
+Yjavascript:S878«P""Remove use of this comma operator.(”ï‰íüÿÿÿÿH–RMAJORZ
+CODE_SMELL
+ljavascript:S878ê5"5Remove use of all comma operators in this expression.(¤¬êÛûÿÿÿÿH—RMAJORZ
+CODE_SMELL
+ljavascript:S878D"5Remove use of all comma operators in this expression.(ò¸¡ıÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+Sjavascript:S878¾""Remove use of this comma operator.(¾ö¢YH™RMAJORZ
+CODE_SMELL
+gjavascript:S878Õ5"5Remove use of all comma operators in this expression.(ì©•·HšRMAJORZ
+CODE_SMELL
+Tjavascript:S878ß6""Remove use of this comma operator.(Ô§ËšH›RMAJORZ
+CODE_SMELL
+Yjavascript:S878ĞK""Remove use of this comma operator.(Û»‚ºÿÿÿÿÿHœRMAJORZ
+CODE_SMELL
+Tjavascript:S878ºN""Remove use of this comma operator.(Üá˜HRMAJORZ
+CODE_SMELL
+Tjavascript:S878Õ5""Remove use of this comma operator.(ì©•·HRMAJORZ
+CODE_SMELL
+xjavascript:S2814ıP"ERename "y" as this name is already used in declaration at line 10360.(™„ÃãHŸRMAJORZ
+CODE_SMELL
+Tjavascript:S878[""Remove use of this comma operator.(®³öÕH RMAJORZ
+CODE_SMELL
+ƒjavascript:S3699ÿB"RRemove this use of the output from "copyAttr"; "copyAttr" doesn't return anything.(©‚“¡úÿÿÿÿH¡RMAJORZBUG
+ljavascript:S878³a"5Remove use of all comma operators in this expression.(‚î‰óúÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+gjavascript:S878µU"5Remove use of all comma operators in this expression.(§³Õ˜H£RMAJORZ
+CODE_SMELL
+ljavascript:S878ßM"5Remove use of all comma operators in this expression.(İ¤Ö«üÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+Sjavascript:S878¡N""Remove use of this comma operator.(ïÖµ=H¥RMAJORZ
+CODE_SMELL
+Yjavascript:S878¬N""Remove use of this comma operator.(ºÒ·ÆùÿÿÿÿH¦RMAJORZ
+CODE_SMELL
+Tjavascript:S878ª
+""Remove use of this comma operator.(‡õ‹‹H§RMAJORZ
+CODE_SMELL
+Tjavascript:S878ü.""Remove use of this comma operator.(ÓÊH¨RMAJORZ
+CODE_SMELL
+gjavascript:S878áT"5Remove use of all comma operators in this expression.(Ù§ñH©RMAJORZ
+CODE_SMELL
+‚javascript:S2873š8"VThis expression might have a value which cannot be called; it might not be a function.(¢²˜¤HªRMAJORZBUG
+Yjavascript:S878P""Remove use of this comma operator.(ì£²¡üÿÿÿÿH«RMAJORZ
+CODE_SMELL
+Yjavascript:S878ì]""Remove use of this comma operator.(Òÿ†üÿÿÿÿH¬RMAJORZ
+CODE_SMELL
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’H­RMAJORZ
+CODE_SMELL
+gjavascript:S878ÜN"5Remove use of all comma operators in this expression.(Á´¹©H®RMAJORZ
+CODE_SMELL
+ljavascript:S878ëh"5Remove use of all comma operators in this expression.(Ä½¥ÄûÿÿÿÿH¯RMAJORZ
+CODE_SMELL
+fjavascript:S878Ã"5Remove use of all comma operators in this expression.(ŠÄŒtH°RMAJORZ
+CODE_SMELL
+gjavascript:S878Í"5Remove use of all comma operators in this expression.(ùè»ãH±RMAJORZ
+CODE_SMELL
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’H²RMAJORZ
+CODE_SMELL
+djavascript:S1143§"8Remove this "throw" statement from this "finally" block.(ŸèÉçH³RMAJORZBUG
+‡javascript:S2873ğL"VThis expression might have a value which cannot be called; it might not be a function.(ßô¥ûøÿÿÿÿH´RMAJORZBUG
+Yjavascript:S878À""Remove use of this comma operator.(ùêâ¢øÿÿÿÿHµRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ş?""Remove use of this comma operator.(£ÊìöH¶RMAJORZ
+CODE_SMELL
+‚javascript:S2873×"VThis expression might have a value which cannot be called; it might not be a function.(Æ¥âñH·RMAJORZBUG
+Tjavascript:S878×""Remove use of this comma operator.(ëºôÑH¸RMAJORZ
+CODE_SMELL
+Tjavascript:S878ûS""Remove use of this comma operator.(‘ùªÀH¹RMAJORZ
+CODE_SMELL
+Tjavascript:S878ù""Remove use of this comma operator.(åš¥ñHºRMAJORZ
+CODE_SMELL
+Tjavascript:S878¸B""Remove use of this comma operator.(«‡íìH»RMAJORZ
+CODE_SMELL
+gjavascript:S878ŒF"5Remove use of all comma operators in this expression.(«ôÑ•H¼RMAJORZ
+CODE_SMELL
+ljavascript:S878”N"5Remove use of all comma operators in this expression.(÷ïêÆıÿÿÿÿH½RMAJORZ
+CODE_SMELL
+Tjavascript:S878äc""Remove use of this comma operator.(Î ¬‹H¾RMAJORZ
+CODE_SMELL
+Tjavascript:S878Ö""Remove use of this comma operator.(›¡­H¿RMAJORZ
+CODE_SMELL
+Yjavascript:S878	""Remove use of this comma operator.(š¨¡şûÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+gjavascript:S878¿	"5Remove use of all comma operators in this expression.(„…õØHÁRMAJORZ
+CODE_SMELL
+Tjavascript:S878º7""Remove use of this comma operator.(òƒ HÂRMAJORZ
+CODE_SMELL
+ljavascript:S878°]"5Remove use of all comma operators in this expression.(«‰¢­ûÿÿÿÿHÃRMAJORZ
+CODE_SMELL
+Tjavascript:S878·>""Remove use of this comma operator.(¯´ªÓHÄRMAJORZ
+CODE_SMELL
+javascript:S2873îK"VThis expression might have a value which cannot be called; it might not be a function.(©¿HÅRMAJORZBUG
+Tjavascript:S878¶I""Remove use of this comma operator.(İÀê»HÆRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ô""Remove use of this comma operator.(ØÏ€HÇRMAJORZ
+CODE_SMELL
+fjavascript:S878¯="5Remove use of all comma operators in this expression.(¾¥œHÈRMAJORZ
+CODE_SMELL
+gjavascript:S878”M"5Remove use of all comma operators in this expression.(£‡ñóHÉRMAJORZ
+CODE_SMELL
+gjavascript:S878”a"5Remove use of all comma operators in this expression.(ü¿ì±HÊRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ÿ""Remove use of this comma operator.(·¡¿›ÿÿÿÿÿHËRMAJORZ
+CODE_SMELL
+Yjavascript:S878¨Y""Remove use of this comma operator.(ØşÜ…ûÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ú:""Remove use of this comma operator.(äñ‚îùÿÿÿÿHÍRMAJORZ
+CODE_SMELL
+Sjavascript:S878ÄZ""Remove use of this comma operator.(øÜğHÎRMAJORZ
+CODE_SMELL
+Tjavascript:S8784""Remove use of this comma operator.(òİóÜHÏRMAJORZ
+CODE_SMELL
+fjavascript:S878Ë3"5Remove use of all comma operators in this expression.(ñÉ—HĞRMAJORZ
+CODE_SMELL
+Yjavascript:S878ú4""Remove use of this comma operator.(ö‘âÇûÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+Yjavascript:S878³V""Remove use of this comma operator.(óê‡ÅùÿÿÿÿHÒRMAJORZ
+CODE_SMELL
+Tjavascript:S878ÿc""Remove use of this comma operator.(„­Ñ±HÓRMAJORZ
+CODE_SMELL
+gjavascript:S878ÇS"5Remove use of all comma operators in this expression.(—şãƒHÔRMAJORZ
+CODE_SMELL
+Yjavascript:S878¦/""Remove use of this comma operator.(êÜñ“üÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+Yjavascript:S878—W""Remove use of this comma operator.(©§çøÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+Yjavascript:S878À5""Remove use of this comma operator.(§ªï—şÿÿÿÿH×RMAJORZ
+CODE_SMELL
+Yjavascript:S878Á5""Remove use of this comma operator.(·°»êúÿÿÿÿHØRMAJORZ
+CODE_SMELL
+ljavascript:S878ÉD"5Remove use of all comma operators in this expression.(¿—ŸƒüÿÿÿÿHÙRMAJORZ
+CODE_SMELL
+Tjavascript:S878ùW""Remove use of this comma operator.(ÁˆÌÑHÚRMAJORZ
+CODE_SMELL
+gjavascript:S878ı"5Remove use of all comma operators in this expression.(òüâÛHÛRMAJORZ
+CODE_SMELL
+Yjavascript:S878²]""Remove use of this comma operator.(éö›ôÿÿÿÿÿHÜRMAJORZ
+CODE_SMELL
+Yjavascript:S878«R""Remove use of this comma operator.(º¸¬¦úÿÿÿÿHİRMAJORZ
+CODE_SMELL
+‡javascript:S2873 P"VThis expression might have a value which cannot be called; it might not be a function.(İ¥¦ƒüÿÿÿÿHŞRMAJORZBUG
+Yjavascript:S878V""Remove use of this comma operator.(ÌŠàÊùÿÿÿÿHßRMAJORZ
+CODE_SMELL
+Sjavascript:S878Îc""Remove use of this comma operator.(ƒÊÎHàRMAJORZ
+CODE_SMELL
+gjavascript:S878“Q"5Remove use of all comma operators in this expression.(í—´¹HáRMAJORZ
+CODE_SMELL
+fjavascript:S878ş<"5Remove use of all comma operators in this expression.(±šîdHâRMAJORZ
+CODE_SMELL
+Yjavascript:S878ï=""Remove use of this comma operator.(ÖŸìÿÿÿÿÿHãRMAJORZ
+CODE_SMELL
+Yjavascript:S878×1""Remove use of this comma operator.(Üó›ßüÿÿÿÿHäRMAJORZ
+CODE_SMELL
+Yjavascript:S878ä""Remove use of this comma operator.(ô…°²ùÿÿÿÿHåRMAJORZ
+CODE_SMELL
+Yjavascript:S878£X""Remove use of this comma operator.(¹œÙöıÿÿÿÿHæRMAJORZ
+CODE_SMELL
+Yjavascript:S878‚7""Remove use of this comma operator.(‚ĞÃ˜ùÿÿÿÿHçRMAJORZ
+CODE_SMELL
+ljavascript:S878Æ"5Remove use of all comma operators in this expression.(İµ¢æûÿÿÿÿHèRMAJORZ
+CODE_SMELL
+Yjavascript:S878«P""Remove use of this comma operator.(”ï‰íüÿÿÿÿHéRMAJORZ
+CODE_SMELL
+gjavascript:S878×"5Remove use of all comma operators in this expression.(ëºôÑHêRMAJORZ
+CODE_SMELL
+ljavascript:S878äK"5Remove use of all comma operators in this expression.(ø¬ë¸ÿÿÿÿÿHëRMAJORZ
+CODE_SMELL
+Yjavascript:S878‚8""Remove use of this comma operator.(Ù©µÆıÿÿÿÿHìRMAJORZ
+CODE_SMELL
+ljavascript:S878€@"5Remove use of all comma operators in this expression.(øóÁûÿÿÿÿHíRMAJORZ
+CODE_SMELL
+Tjavascript:S878Â4""Remove use of this comma operator.(°Ë˜¹HîRMAJORZ
+CODE_SMELL
+Sjavascript:S878­""Remove use of this comma operator.(½–”-HïRMAJORZ
+CODE_SMELL
+bjavascript:S1472j"+Make those call arguments start on line 104(À˜½¤øÿÿÿÿHğRMINORZ
+CODE_SMELL
+‚javascript:S2873ÆR"VThis expression might have a value which cannot be called; it might not be a function.(¥ûèîHñRMAJORZBUG
+Yjavascript:S878A""Remove use of this comma operator.(êß¡µùÿÿÿÿHòRMAJORZ
+CODE_SMELL
+Yjavascript:S878ßM""Remove use of this comma operator.(İ¤Ö«üÿÿÿÿHóRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÒQ""Remove use of this comma operator.(ŸŞ¦ıÿÿÿÿHôRMAJORZ
+CODE_SMELL
+ljavascript:S878ÖU"5Remove use of all comma operators in this expression.(¶°òİøÿÿÿÿHõRMAJORZ
+CODE_SMELL
+Tjavascript:S878ØU""Remove use of this comma operator.(°£‡¥HöRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ú<""Remove use of this comma operator.(º±‰ÉH÷RMAJORZ
+CODE_SMELL
+‡javascript:S2873º;"VThis expression might have a value which cannot be called; it might not be a function.(ŒÜ‹ÉúÿÿÿÿHøRMAJORZBUG
+Yjavascript:S878±[""Remove use of this comma operator.(ÂÍğşÿÿÿÿHùRMAJORZ
+CODE_SMELL
+ljavascript:S878I"5Remove use of all comma operators in this expression.(í‡¶¶ıÿÿÿÿHúRMAJORZ
+CODE_SMELL
+ljavascript:S878S"5Remove use of all comma operators in this expression.(ƒ²½ÇşÿÿÿÿHûRMAJORZ
+CODE_SMELL
+Yjavascript:S878¥b""Remove use of this comma operator.(È±¨ËÿÿÿÿÿHüRMAJORZ
+CODE_SMELL
+Yjavascript:S878á7""Remove use of this comma operator.(²•™˜şÿÿÿÿHıRMAJORZ
+CODE_SMELL
+javascript:S2873ÏU"VThis expression might have a value which cannot be called; it might not be a function.(Ï¸óHşRMAJORZBUG
+ljavascript:S878«E"5Remove use of all comma operators in this expression.(»Ôæ‚øÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+‡javascript:S2873–C"VThis expression might have a value which cannot be called; it might not be a function.(‡å¥ÂûÿÿÿÿH€RMAJORZBUG
+‡javascript:S28738"VThis expression might have a value which cannot be called; it might not be a function.(€ÎàûÿÿÿÿHRMAJORZBUG
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’H‚RMAJORZ
+CODE_SMELL
+Yjavascript:S878á:""Remove use of this comma operator.(¼§Õ·ûÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+Yjavascript:S878äT""Remove use of this comma operator.(³õâüÿÿÿÿH„RMAJORZ
+CODE_SMELL
+Tjavascript:S878œ""Remove use of this comma operator.(•×“ßH…RMAJORZ
+CODE_SMELL
+javascript:S2873ÈH"VThis expression might have a value which cannot be called; it might not be a function.(ï­ú*H†RMAJORZBUG
+‡javascript:S2873ö"VThis expression might have a value which cannot be called; it might not be a function.(™”ÂÂøÿÿÿÿH‡RMAJORZBUG
+Yjavascript:S878¹/""Remove use of this comma operator.(ÇÙŸõıÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+Tjavascript:S878²0""Remove use of this comma operator.(ã”ÊâH‰RMAJORZ
+CODE_SMELL
+‡javascript:S2873›8"VThis expression might have a value which cannot be called; it might not be a function.(ò¡ÚşÿÿÿÿHŠRMAJORZBUG
+ljavascript:S878ÈC"5Remove use of all comma operators in this expression.(ïÎ¶¤úÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+Yjavascript:S878‰]""Remove use of this comma operator.(î»øÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+gjavascript:S878ÇZ"5Remove use of all comma operators in this expression.(°ğâHRMAJORZ
+CODE_SMELL
+Tjavascript:S878¼P""Remove use of this comma operator.(õŠèHRMAJORZ
+CODE_SMELL
+Tjavascript:S878Í""Remove use of this comma operator.(ùè»ãHRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÌT""Remove use of this comma operator.(±ÅÕ¥ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+ljavascript:S878å5"5Remove use of all comma operators in this expression.(«†é™øÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+‡javascript:S2873±M"VThis expression might have a value which cannot be called; it might not be a function.(¿ÒçìıÿÿÿÿH’RMAJORZBUG
+gjavascript:S878²\"5Remove use of all comma operators in this expression.(›ŞÆıH“RMAJORZ
+CODE_SMELL
+‚javascript:S2873·8"VThis expression might have a value which cannot be called; it might not be a function.(ò™Ë·H”RMAJORZBUG
+Tjavascript:S878ü.""Remove use of this comma operator.(ÓÊH•RMAJORZ
+CODE_SMELL
+Tjavascript:S878«""Remove use of this comma operator.(™ª¬ˆH–RMAJORZ
+CODE_SMELL
+Yjavascript:S878‚8""Remove use of this comma operator.(Ù©µÆıÿÿÿÿH—RMAJORZ
+CODE_SMELL
+`javascript:S1656Ü"/Remove or correct this useless self-assignment.( ÏÜÖÿÿÿÿÿH˜RMAJORZBUG
+Yjavascript:S878“0""Remove use of this comma operator.(´ñ¬®øÿÿÿÿH™RMAJORZ
+CODE_SMELL
+Sjavascript:S878=""Remove use of this comma operator.(ôªŞgHšRMAJORZ
+CODE_SMELL
+gjavascript:S878"5Remove use of all comma operators in this expression.(é½ã©H›RMAJORZ
+CODE_SMELL
+Tjavascript:S878øM""Remove use of this comma operator.(¯È…HœRMAJORZ
+CODE_SMELL
+Yjavascript:S878ŸJ""Remove use of this comma operator.(¸ÂØùÿÿÿÿHRMAJORZ
+CODE_SMELL
+Yjavascript:S878ë0""Remove use of this comma operator.(„¦´ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+Tjavascript:S878†:""Remove use of this comma operator.(ë·×ÌHŸRMAJORZ
+CODE_SMELL
+Yjavascript:S878d""Remove use of this comma operator.(«®ŞôúÿÿÿÿH RMAJORZ
+CODE_SMELL
+Tjavascript:S878Ä0""Remove use of this comma operator.(Öçö™H¡RMAJORZ
+CODE_SMELL
+Yjavascript:S878«P""Remove use of this comma operator.(”ï‰íüÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+Tjavascript:S878Ø2""Remove use of this comma operator.(õÈÕöH£RMAJORZ
+CODE_SMELL
+Yjavascript:S878ı""Remove use of this comma operator.(ëíË±ÿÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+tjavascript:S1854ÿg"<Remove this useless assignment to local variable "billboard"(Šò¹”øÿÿÿÿH¥RMAJORZ
+CODE_SMELL
+Tjavascript:S878°""Remove use of this comma operator.(””Ş¤H¦RMAJORZ
+CODE_SMELL
+Yjavascript:S878ßR""Remove use of this comma operator.(´ˆ¼şÿÿÿÿH§RMAJORZ
+CODE_SMELL
+ljavascript:S878£"5Remove use of all comma operators in this expression.(·ì‡ÎøÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+Yjavascript:S878ê.""Remove use of this comma operator.(ıÍºÏşÿÿÿÿH©RMAJORZ
+CODE_SMELL
+Tjavascript:S878»:""Remove use of this comma operator.(ƒÜ ¾HªRMAJORZ
+CODE_SMELL
+gjavascript:S878éM"5Remove use of all comma operators in this expression.(Ş«ú¼H«RMAJORZ
+CODE_SMELL
+ljavascript:S878ä"5Remove use of all comma operators in this expression.(ô…°²ùÿÿÿÿH¬RMAJORZ
+CODE_SMELL
+gjavascript:S878äC"5Remove use of all comma operators in this expression.(ıì×æH­RMAJORZ
+CODE_SMELL
+ljavascript:S878¶;"5Remove use of all comma operators in this expression.(Á·Î™úÿÿÿÿH®RMAJORZ
+CODE_SMELL
+Yjavascript:S878¶.""Remove use of this comma operator.(§†ÖÙûÿÿÿÿH¯RMAJORZ
+CODE_SMELL
+ljavascript:S878ÚH"5Remove use of all comma operators in this expression.(ëÌÃËÿÿÿÿÿH°RMAJORZ
+CODE_SMELL
+Yjavascript:S878¤T""Remove use of this comma operator.(¬ú•£şÿÿÿÿH±RMAJORZ
+CODE_SMELL
+gjavascript:S878ö"5Remove use of all comma operators in this expression.(¦„šH²RMAJORZ
+CODE_SMELL
+Yjavascript:S878ùP""Remove use of this comma operator.(¬ÊĞ¯øÿÿÿÿH³RMAJORZ
+CODE_SMELL
+gjavascript:S878¤="5Remove use of all comma operators in this expression.(™è–¸H´RMAJORZ
+CODE_SMELL
+Tjavascript:S878Ü4""Remove use of this comma operator.(óèëHµRMAJORZ
+CODE_SMELL
+Yjavascript:S878Œ7""Remove use of this comma operator.(Ù™êÑıÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+ljavascript:S878Ÿ="5Remove use of all comma operators in this expression.(²…ì®ıÿÿÿÿH·RMAJORZ
+CODE_SMELL
+ljavascript:S878–I"5Remove use of all comma operators in this expression.(˜—å úÿÿÿÿH¸RMAJORZ
+CODE_SMELL
+Tjavascript:S878•4""Remove use of this comma operator.(šƒˆH¹RMAJORZ
+CODE_SMELL
+Yjavascript:S878áJ""Remove use of this comma operator.(íóùÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Tjavascript:S878ğM""Remove use of this comma operator.(¯È…H»RMAJORZ
+CODE_SMELL
+Yjavascript:S8781""Remove use of this comma operator.(æ•–ïşÿÿÿÿH¼RMAJORZ
+CODE_SMELL
+ljavascript:S878¶;"5Remove use of all comma operators in this expression.(Á·Î™úÿÿÿÿH½RMAJORZ
+CODE_SMELL
+v'javascript:FunctionDefinitionInsideLoop³."'Define this function outside of a loop.(·ñ°ÕşÿÿÿÿH¾RMAJORZ
+CODE_SMELL
+‚javascript:S2873ç]"VThis expression might have a value which cannot be called; it might not be a function.(½‰…œH¿RMAJORZBUG
+gjavascript:S878 >"5Remove use of all comma operators in this expression.(¼¶Á²HÀRMAJORZ
+CODE_SMELL
+Yjavascript:S878˜@""Remove use of this comma operator.(ó¡§²øÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+Yjavascript:S878G""Remove use of this comma operator.(ÚéÄöüÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+gjavascript:S878âM"5Remove use of all comma operators in this expression.(ÁË‚HÃRMAJORZ
+CODE_SMELL
+‡javascript:S2873ä]"VThis expression might have a value which cannot be called; it might not be a function.(à´ÑúÿÿÿÿHÄRMAJORZBUG
+ljavascript:S878ï="5Remove use of all comma operators in this expression.(ÖŸìÿÿÿÿÿHÅRMAJORZ
+CODE_SMELL
+Tjavascript:S878íZ""Remove use of this comma operator.(€Ê¡›HÆRMAJORZ
+CODE_SMELL
+Tjavascript:S878¹""Remove use of this comma operator.(¾šøœHÇRMAJORZ
+CODE_SMELL
+ljavascript:S878¨Y"5Remove use of all comma operators in this expression.(ØşÜ…ûÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+Tjavascript:S878‚d""Remove use of this comma operator.(¼øÙÛHÉRMAJORZ
+CODE_SMELL
+gjavascript:S878Ñ"5Remove use of all comma operators in this expression.(²ÈÈÁHÊRMAJORZ
+CODE_SMELL
+gjavascript:S878¹	"5Remove use of all comma operators in this expression.(ööœ·HËRMAJORZ
+CODE_SMELL
+vjavascript:S1854Èe">Remove this useless assignment to local variable "browser_doc"(·íœşÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+Yjavascript:S878¯M""Remove use of this comma operator.(ÑÙßÅøÿÿÿÿHÍRMAJORZ
+CODE_SMELL
+Tjavascript:S878“f""Remove use of this comma operator.(ú €HÎRMAJORZ
+CODE_SMELL
+ljavascript:S878åJ"5Remove use of all comma operators in this expression.(ôÙ¬¹ıÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+‡javascript:S2873Õ^"VThis expression might have a value which cannot be called; it might not be a function.(¨Á¡¼şÿÿÿÿHĞRMAJORZBUG
+Yjavascript:S878ì0""Remove use of this comma operator.(â¡ƒêûÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+ljavascript:S878œ?"5Remove use of all comma operators in this expression.(²‘íçúÿÿÿÿHÒRMAJORZ
+CODE_SMELL
+Yjavascript:S878ùB""Remove use of this comma operator.(âÆ²ÛıÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+gjavascript:S878‡]"5Remove use of all comma operators in this expression.(µ­ÉíHÔRMAJORZ
+CODE_SMELL
+Tjavascript:S878ß""Remove use of this comma operator.(º™‚³HÕRMAJORZ
+CODE_SMELL
+Yjavascript:S878ñb""Remove use of this comma operator.(ÂÍğşÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+Tjavascript:S878ü.""Remove use of this comma operator.(ÓÊH×RMAJORZ
+CODE_SMELL
+gjavascript:S878ãM"5Remove use of all comma operators in this expression.(½éâ³HØRMAJORZ
+CODE_SMELL
+Tjavascript:S878¥7""Remove use of this comma operator.(Ş¾”‡HÙRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÔR""Remove use of this comma operator.(éœ–ÿÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+Tjavascript:S878Æ""Remove use of this comma operator.(áòÁûHÛRMAJORZ
+CODE_SMELL
+Yjavascript:S878å/""Remove use of this comma operator.(©äĞ›øÿÿÿÿHÜRMAJORZ
+CODE_SMELL
+Yjavascript:S878¿B""Remove use of this comma operator.(ÏñÏúÿÿÿÿHİRMAJORZ
+CODE_SMELL
+Tjavascript:S878”M""Remove use of this comma operator.(£‡ñóHŞRMAJORZ
+CODE_SMELL
+Yjavascript:S878À""Remove use of this comma operator.(ùêâ¢øÿÿÿÿHßRMAJORZ
+CODE_SMELL
+Tjavascript:S878öI""Remove use of this comma operator.(˜ÀŸÓHàRMAJORZ
+CODE_SMELL
+gjavascript:S878Ş"5Remove use of all comma operators in this expression.(õ‹ºúHáRMAJORZ
+CODE_SMELL
+Tjavascript:S878å""Remove use of this comma operator.(ˆß÷ HâRMAJORZ
+CODE_SMELL
+Yjavascript:S878¡O""Remove use of this comma operator.(¿„àøÿÿÿÿÿHãRMAJORZ
+CODE_SMELL
+Yjavascript:S878÷""Remove use of this comma operator.(øæÉëıÿÿÿÿHäRMAJORZ
+CODE_SMELL
+Yjavascript:S878ö""Remove use of this comma operator.(™”ÂÂøÿÿÿÿHåRMAJORZ
+CODE_SMELL
+Tjavascript:S878§5""Remove use of this comma operator.(õÂçHæRMAJORZ
+CODE_SMELL
+‡javascript:S2873–@"VThis expression might have a value which cannot be called; it might not be a function.(ÑòÉœúÿÿÿÿHçRMAJORZBUG
+ljavascript:S878ò]"5Remove use of all comma operators in this expression.(ö¿ï›ùÿÿÿÿHèRMAJORZ
+CODE_SMELL
+gjavascript:S878ıA"5Remove use of all comma operators in this expression.(‘™ÉëHéRMAJORZ
+CODE_SMELL
+Tjavascript:S878³""Remove use of this comma operator.(ªú­“HêRMAJORZ
+CODE_SMELL
+ljavascript:S878­/"5Remove use of all comma operators in this expression.(¢ìğÙşÿÿÿÿHëRMAJORZ
+CODE_SMELL
+gjavascript:S878Ù"5Remove use of all comma operators in this expression.(ô’§HìRMAJORZ
+CODE_SMELL
+Tjavascript:S878äV""Remove use of this comma operator.(²•ÔˆHíRMAJORZ
+CODE_SMELL
+Yjavascript:S878©R""Remove use of this comma operator.(ê•¬ÖşÿÿÿÿHîRMAJORZ
+CODE_SMELL
+Yjavascript:S878À""Remove use of this comma operator.(ùêâ¢øÿÿÿÿHïRMAJORZ
+CODE_SMELL
+Tjavascript:S878”=""Remove use of this comma operator.(Òİ¦ÿHğRMAJORZ
+CODE_SMELL
+Yjavascript:S878æ6""Remove use of this comma operator.(Ÿ®™õÿÿÿÿÿHñRMAJORZ
+CODE_SMELL
+gjavascript:S878ğ"5Remove use of all comma operators in this expression.(İßåáHòRMAJORZ
+CODE_SMELL
+gjavascript:S878íZ"5Remove use of all comma operators in this expression.(€Ê¡›HóRMAJORZ
+CODE_SMELL
+Yjavascript:S878şZ""Remove use of this comma operator.(ã£«øÿÿÿÿHôRMAJORZ
+CODE_SMELL
+ljavascript:S878E"5Remove use of all comma operators in this expression.(Äè±´şÿÿÿÿHõRMAJORZ
+CODE_SMELL
+ljavascript:S878¬H"5Remove use of all comma operators in this expression.(È‹½üÿÿÿÿHöRMAJORZ
+CODE_SMELL
+Tjavascript:S878—e""Remove use of this comma operator.(¸âİØH÷RMAJORZ
+CODE_SMELL
+Tjavascript:S878¼P""Remove use of this comma operator.(õŠèHøRMAJORZ
+CODE_SMELL
+gjavascript:S878¾T"5Remove use of all comma operators in this expression.(…®å˜HùRMAJORZ
+CODE_SMELL
+Tjavascript:S878§<""Remove use of this comma operator.(ÿ®¯àHúRMAJORZ
+CODE_SMELL
+Tjavascript:S878Á>""Remove use of this comma operator.(º†ØŒHûRMAJORZ
+CODE_SMELL
+ljavascript:S878·C"5Remove use of all comma operators in this expression.(‚‘€—úÿÿÿÿHüRMAJORZ
+CODE_SMELL
+Tjavascript:S878·8""Remove use of this comma operator.(ò™Ë·HıRMAJORZ
+CODE_SMELL
+‡javascript:S2873ã]"VThis expression might have a value which cannot be called; it might not be a function.(Ğç­šüÿÿÿÿHşRMAJORZBUG
+Yjavascript:S878¯M""Remove use of this comma operator.(ÑÙßÅøÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+gjavascript:S878âM"5Remove use of all comma operators in this expression.(ÁË‚H€RMAJORZ
+CODE_SMELL
+Tjavascript:S878“<""Remove use of this comma operator.(ÕßìÓHRMAJORZ
+CODE_SMELL
+gjavascript:S878¦:"5Remove use of all comma operators in this expression.(ŒÎ¬¬H‚RMAJORZ
+CODE_SMELL
+javascript:S2873êE"VThis expression might have a value which cannot be called; it might not be a function.(şâ†HƒRMAJORZBUG
+vjavascript:UnusedVariableŠi"5Remove the declaration of the unused 'core' variable.(Ğ•ÔíşÿÿÿÿH„RMINORZ
+CODE_SMELL
+gjavascript:S878—C"5Remove use of all comma operators in this expression.(áïÍ¸H…RMAJORZ
+CODE_SMELL
+Tjavascript:S878É""Remove use of this comma operator.(æƒ¿¢H†RMAJORZ
+CODE_SMELL
+Tjavascript:S878—T""Remove use of this comma operator.(ôÍç©H‡RMAJORZ
+CODE_SMELL
+gjavascript:S878ÿc"5Remove use of all comma operators in this expression.(„­Ñ±HˆRMAJORZ
+CODE_SMELL
+Yjavascript:S878ä""Remove use of this comma operator.(ô…°²ùÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+gjavascript:S8788"5Remove use of all comma operators in this expression.(¦å¶ĞHŠRMAJORZ
+CODE_SMELL
+gjavascript:S878å_"5Remove use of all comma operators in this expression.(¶Ò˜äH‹RMAJORZ
+CODE_SMELL
+Sjavascript:S878‘=""Remove use of this comma operator.(ÈØ£HŒRMAJORZ
+CODE_SMELL
+gjavascript:S878 ."5Remove use of all comma operators in this expression.(ºµÓ¨HRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ê""Remove use of this comma operator.(üÁÅHRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ñ=""Remove use of this comma operator.(Ğ‡ƒ“ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+ljavascript:S878íF"5Remove use of all comma operators in this expression.(¯ÇÃœúÿÿÿÿHRMAJORZ
+CODE_SMELL
+‡javascript:S2873–;"VThis expression might have a value which cannot be called; it might not be a function.(¨¨èÆÿÿÿÿÿH‘RMAJORZBUG
+gjavascript:S878Ï	"5Remove use of all comma operators in this expression.(æÈ»ÕH’RMAJORZ
+CODE_SMELL
+‚javascript:S2873à:"VThis expression might have a value which cannot be called; it might not be a function.(©Ô¯†H“RMAJORZBUG
+Sjavascript:S8782""Remove use of this comma operator.(È˜LH”RMAJORZ
+CODE_SMELL
+ljavascript:S878å."5Remove use of all comma operators in this expression.(Ğ•±ßøÿÿÿÿH•RMAJORZ
+CODE_SMELL
+gjavascript:S878ÍZ"5Remove use of all comma operators in this expression.(¬›±¼H–RMAJORZ
+CODE_SMELL
+‚javascript:S2873ÜA"VThis expression might have a value which cannot be called; it might not be a function.(µæÔH—RMAJORZBUG
+ljavascript:S878á	"5Remove use of all comma operators in this expression.(€ØŒÂùÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+Yjavascript:S878É
+""Remove use of this comma operator.(„ËÑùÿÿÿÿH™RMAJORZ
+CODE_SMELL
+ljavascript:S878ä"5Remove use of all comma operators in this expression.(ô…°²ùÿÿÿÿHšRMAJORZ
+CODE_SMELL
+‚javascript:S2873²"VThis expression might have a value which cannot be called; it might not be a function.(Ü¿½H›RMAJORZBUG
+‡javascript:S2873ß7"VThis expression might have a value which cannot be called; it might not be a function.(Èùÿ¹ıÿÿÿÿHœRMAJORZBUG
+gjavascript:S878è?"5Remove use of all comma operators in this expression.(Äı™ñHRMAJORZ
+CODE_SMELL
+Yjavascript:S878ŸJ""Remove use of this comma operator.(¸ÂØùÿÿÿÿHRMAJORZ
+CODE_SMELL
+Yjavascript:S878ºV""Remove use of this comma operator.(¨¹ã£üÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+Yjavascript:S878â""Remove use of this comma operator.(Ğóü¤şÿÿÿÿH RMAJORZ
+CODE_SMELL
+Tjavascript:S878""Remove use of this comma operator.(ÃŠëŸH¡RMAJORZ
+CODE_SMELL
+Tjavascript:S878‡1""Remove use of this comma operator.(±éŞH¢RMAJORZ
+CODE_SMELL
+ljavascript:S878áJ"5Remove use of all comma operators in this expression.(íóùÿÿÿÿH£RMAJORZ
+CODE_SMELL
+‡javascript:S2873õ]"VThis expression might have a value which cannot be called; it might not be a function.(ä½şÿÿÿÿÿH¤RMAJORZBUG
+gjavascript:S878ÕH"5Remove use of all comma operators in this expression.(‚ÆÂ¥H¥RMAJORZ
+CODE_SMELL
+‡javascript:S2873àU"VThis expression might have a value which cannot be called; it might not be a function.(Ò×´–ùÿÿÿÿH¦RMAJORZBUG
+gjavascript:S878ß6"5Remove use of all comma operators in this expression.(Ô§ËšH§RMAJORZ
+CODE_SMELL
+Yjavascript:S878š;""Remove use of this comma operator.(»›õğüÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+Tjavascript:S878ÁQ""Remove use of this comma operator.(»ª•ŞH©RMAJORZ
+CODE_SMELL
+‚javascript:S2873œ<"VThis expression might have a value which cannot be called; it might not be a function.(ÓÁ­öHªRMAJORZBUG
+Yjavascript:S878¡O""Remove use of this comma operator.(¿„àøÿÿÿÿÿH«RMAJORZ
+CODE_SMELL
+Tjavascript:S878Ş""Remove use of this comma operator.(Ê–ÂÒH¬RMAJORZ
+CODE_SMELL
+ljavascript:S878û"5Remove use of all comma operators in this expression.(°§ÛøÿÿÿÿH­RMAJORZ
+CODE_SMELL
+Tjavascript:S878èR""Remove use of this comma operator.(ş‘´H®RMAJORZ
+CODE_SMELL
+Tjavascript:S878½E""Remove use of this comma operator.(ºÍ¦îH¯RMAJORZ
+CODE_SMELL
+Yjavascript:S878Ä[""Remove use of this comma operator.(À¨©ÚûÿÿÿÿH°RMAJORZ
+CODE_SMELL
+Tjavascript:S878ÜF""Remove use of this comma operator.(õÈ¦ªH±RMAJORZ
+CODE_SMELL
+Tjavascript:S878ş2""Remove use of this comma operator.(Şù˜×H²RMAJORZ
+CODE_SMELL
+Yjavascript:S878¹F""Remove use of this comma operator.(§Ãş¢ÿÿÿÿÿH³RMAJORZ
+CODE_SMELL
+ljavascript:S3782´g"4Change this argument to the documented type: Number.(ÔÇüªüÿÿÿÿH´RMAJORZ
+CODE_SMELL
+‡javascript:S2873ƒ"VThis expression might have a value which cannot be called; it might not be a function.(ç€üğùÿÿÿÿHµRMAJORZBUG
+Tjavascript:S878Ó""Remove use of this comma operator.(½†âÔH¶RMAJORZ
+CODE_SMELL
+Tjavascript:S878…""Remove use of this comma operator.(À«Ñ’H·RMAJORZ
+CODE_SMELL
+Tjavascript:S878°M""Remove use of this comma operator.(š¯–¯H¸RMAJORZ
+CODE_SMELL
+ljavascript:S878ˆg"5Remove use of all comma operators in this expression.(ÂÒ¾ÉûÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+ljavascript:S878¦S"5Remove use of all comma operators in this expression.(×¶Ø÷ıÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Tjavascript:S878”
+""Remove use of this comma operator.(û…‘ÍH»RMAJORZ
+CODE_SMELL
+gjavascript:S878ÇH"5Remove use of all comma operators in this expression.(İ§ÄH¼RMAJORZ
+CODE_SMELL
+Tjavascript:S878¶7""Remove use of this comma operator.(Ç¤—ªH½RMAJORZ
+CODE_SMELL
+Tjavascript:S878¶""Remove use of this comma operator.(Ğ£¥ÿH¾RMAJORZ
+CODE_SMELL
+ljavascript:S878ÍN"5Remove use of all comma operators in this expression.(Ãÿ€†ùÿÿÿÿH¿RMAJORZ
+CODE_SMELL
+ljavascript:S878â6"5Remove use of all comma operators in this expression.(úØæ˜ÿÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+‡javascript:S2873¶B"VThis expression might have a value which cannot be called; it might not be a function.(‘ì·šúÿÿÿÿHÁRMAJORZBUG
+fjavascript:S878›Z"5Remove use of all comma operators in this expression.(´‘íJHÂRMAJORZ
+CODE_SMELL
+gjavascript:S878µ;"5Remove use of all comma operators in this expression.(Ê‰Ï€HÃRMAJORZ
+CODE_SMELL
+Tjavascript:S878©[""Remove use of this comma operator.(æéÂÃHÄRMAJORZ
+CODE_SMELL
+‡javascript:S2873ßB"VThis expression might have a value which cannot be called; it might not be a function.(¯£’ÅøÿÿÿÿHÅRMAJORZBUG
+Yjavascript:S878«P""Remove use of this comma operator.(”ï‰íüÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+Sjavascript:S878ç-""Remove use of this comma operator.(¯“õZHÇRMAJORZ
+CODE_SMELL
+Sjavascript:S878êE""Remove use of this comma operator.(şâ†HÈRMAJORZ
+CODE_SMELL
+Yjavascript:S878‹T""Remove use of this comma operator.(–¤ˆ¹ûÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+Yjavascript:S878ƒI""Remove use of this comma operator.(ğÌÎæùÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+Yjavascript:S878â8""Remove use of this comma operator.(‰ü°ğøÿÿÿÿHËRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÜJ""Remove use of this comma operator.(ÛñêÄıÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+‡javascript:S2873Ä["VThis expression might have a value which cannot be called; it might not be a function.(À¨©ÚûÿÿÿÿHÍRMAJORZBUG
+gjavascript:S878šc"5Remove use of all comma operators in this expression.(ÿ±ï•HÎRMAJORZ
+CODE_SMELL
+Tjavascript:S878„.""Remove use of this comma operator.(ËäÊêHÏRMAJORZ
+CODE_SMELL
+Sjavascript:S878¯/""Remove use of this comma operator.(ñŞ­%HĞRMAJORZ
+CODE_SMELL
+Tjavascript:S878×""Remove use of this comma operator.(å°Ó‹HÑRMAJORZ
+CODE_SMELL
+fjavascript:S878Î7"5Remove use of all comma operators in this expression.(ÉËÒHÒRMAJORZ
+CODE_SMELL
+gjavascript:S878ñ7"5Remove use of all comma operators in this expression.(ğ±HÓRMAJORZ
+CODE_SMELL
+fjavascript:S878Ù"5Remove use of all comma operators in this expression.(¨Õ„KHÔRMAJORZ
+CODE_SMELL
+Tjavascript:S878”A""Remove use of this comma operator.(ÄîƒHÕRMAJORZ
+CODE_SMELL
+Yjavascript:S878¹""Remove use of this comma operator.(óÛ€½şÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÖU""Remove use of this comma operator.(¶°òİøÿÿÿÿH×RMAJORZ
+CODE_SMELL
+Tjavascript:S878Å""Remove use of this comma operator.(²µ½“HØRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ï""Remove use of this comma operator.(Êû„ïüÿÿÿÿHÙRMAJORZ
+CODE_SMELL
+Tjavascript:S878˜""Remove use of this comma operator.(°ßà‘HÚRMAJORZ
+CODE_SMELL
+Tjavascript:S878ö	""Remove use of this comma operator.(‘ ¯·HÛRMAJORZ
+CODE_SMELL
+Yjavascript:S878¢""Remove use of this comma operator.(òÜšíÿÿÿÿÿHÜRMAJORZ
+CODE_SMELL
+Yjavascript:S878Ö7""Remove use of this comma operator.(ÌŒ«ìùÿÿÿÿHİRMAJORZ
+CODE_SMELL
+javascript:S3973¢7"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ıÃó—HŞRCRITICALZ
+CODE_SMELL
+Yjavascript:S878É.""Remove use of this comma operator.(¹êÑøùÿÿÿÿHßRMAJORZ
+CODE_SMELL
+Yjavascript:S878D""Remove use of this comma operator.(£ÑòøÿÿÿÿHàRMAJORZ
+CODE_SMELL
+Tjavascript:S878ïF""Remove use of this comma operator.(‡…Á¾HáRMAJORZ
+CODE_SMELL
+gjavascript:S878Ÿ"5Remove use of all comma operators in this expression.(°­Œ™HâRMAJORZ
+CODE_SMELL
+gjavascript:S878…Q"5Remove use of all comma operators in this expression.(÷ÿõŠHãRMAJORZ
+CODE_SMELL
+gjavascript:S878µ"5Remove use of all comma operators in this expression.(‹ÚÄÜHäRMAJORZ
+CODE_SMELL
+Yjavascript:S878µ""Remove use of this comma operator.(ØèÊãúÿÿÿÿHåRMAJORZ
+CODE_SMELL
+gjavascript:S878œ."5Remove use of all comma operators in this expression.(ÆÉ‹›HæRMAJORZ
+CODE_SMELL
+Tjavascript:S878øS""Remove use of this comma operator.(¼©äHçRMAJORZ
+CODE_SMELL
+gjavascript:S878µ7"5Remove use of all comma operators in this expression.(‡Ö®óHèRMAJORZ
+CODE_SMELL
+Yjavascript:S878á7""Remove use of this comma operator.(²•™˜şÿÿÿÿHéRMAJORZ
+CODE_SMELL
+‡javascript:S2873ş>"VThis expression might have a value which cannot be called; it might not be a function.(ìãäÅşÿÿÿÿHêRMAJORZBUG
+ljavascript:S878„"5Remove use of all comma operators in this expression.(Ğï‡ûùÿÿÿÿHëRMAJORZ
+CODE_SMELL
+Yjavascript:S878ÁI""Remove use of this comma operator.(óÛ€½şÿÿÿÿHìRMAJORZ
+CODE_SMELL
+Yjavascript:S878¦/""Remove use of this comma operator.(êÜñ“üÿÿÿÿHíRMAJORZ
+CODE_SMELL
+gjavascript:S878ÁJ"5Remove use of all comma operators in this expression.(§ÚÍ·HîRMAJORZ
+CODE_SMELL
+ljavascript:S878É7"5Remove use of all comma operators in this expression.(¸ã‘øşÿÿÿÿHïRMAJORZ
+CODE_SMELL
+ljavascript:S878Q"5Remove use of all comma operators in this expression.(Ù—ù¦øÿÿÿÿHğRMAJORZ
+CODE_SMELL
+javascript:S3973©"XUse curly braces or indentation to denote the code conditionally executed by this "for".(•ºœHñRCRITICALZ
+CODE_SMELL
+ljavascript:S878ÿB"5Remove use of all comma operators in this expression.(©‚“¡úÿÿÿÿHòRMAJORZ
+CODE_SMELL
+fjavascript:S878´
+"5Remove use of all comma operators in this expression.(àÀç+HóRMAJORZ
+CODE_SMELL
+‚javascript:S2873ÆR"VThis expression might have a value which cannot be called; it might not be a function.(¥ûèîHôRMAJORZBUG
+ljavascript:S878©`"5Remove use of all comma operators in this expression.(€É¨ÿşÿÿÿÿHõRMAJORZ
+CODE_SMELL
+gjavascript:S878à="5Remove use of all comma operators in this expression.(ñ±ûèHöRMAJORZ
+CODE_SMELL
+Tjavascript:S878Æ<""Remove use of this comma operator.(¡‰²°H÷RMAJORZ
+CODE_SMELL
+Yjavascript:S878±M""Remove use of this comma operator.(¿ÒçìıÿÿÿÿHøRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ñ""Remove use of this comma operator.(²ÈÈÁHùRMAJORZ
+CODE_SMELL
+Yjavascript:S878³/""Remove use of this comma operator.(‡í§ÓşÿÿÿÿHúRMAJORZ
+CODE_SMELL
+Yjavascript:S878ä""Remove use of this comma operator.(ô…°²ùÿÿÿÿHûRMAJORZ
+CODE_SMELL
+Yjavascript:S878º8""Remove use of this comma operator.(ÿ®˜”ÿÿÿÿÿHüRMAJORZ
+CODE_SMELL
+gjavascript:S878ü."5Remove use of all comma operators in this expression.(ÓÊHıRMAJORZ
+CODE_SMELL
+Tjavascript:S878¶^""Remove use of this comma operator.(ä‡×HşRMAJORZ
+CODE_SMELL
+Yjavascript:S878õf""Remove use of this comma operator.( Ë—’ùÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+‡javascript:S2873ê]"VThis expression might have a value which cannot be called; it might not be a function.(Ã¼”ÖøÿÿÿÿH€RMAJORZBUG
+‚javascript:S2873Ü"VThis expression might have a value which cannot be called; it might not be a function.(¾òHRMAJORZBUG
+Yjavascript:S878²]""Remove use of this comma operator.(éö›ôÿÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+‚javascript:S2873ˆM"VThis expression might have a value which cannot be called; it might not be a function.(¥èÊµHƒRMAJORZBUG
+Yjavascript:S878±""Remove use of this comma operator.(àÿÓ‰üÿÿÿÿH„RMAJORZ
+CODE_SMELL
+gjavascript:S878Æ"5Remove use of all comma operators in this expression.(áòÁûH…RMAJORZ
+CODE_SMELL
+gjavascript:S878õ4"5Remove use of all comma operators in this expression.(îø‹øH†RMAJORZ
+CODE_SMELL
+Sjavascript:S878Å4""Remove use of this comma operator.(ÉÏ¶FH‡RMAJORZ
+CODE_SMELL
+‡javascript:S2873Ë-"VThis expression might have a value which cannot be called; it might not be a function.(•¦Ã•øÿÿÿÿHˆRMAJORZBUG
+Tjavascript:S878‚<""Remove use of this comma operator.(ÂÕÇÜH‰RMAJORZ
+CODE_SMELL
+Tjavascript:S878Ë9""Remove use of this comma operator.(¦È›HŠRMAJORZ
+CODE_SMELL
+Tjavascript:S878Ş4""Remove use of this comma operator.(ß×ôH‹RMAJORZ
+CODE_SMELL
+fjavascript:S878³>"5Remove use of all comma operators in this expression.(ÔÎêfHŒRMAJORZ
+CODE_SMELL
+‡javascript:S2873€V"VThis expression might have a value which cannot be called; it might not be a function.(ÿ”›ùÿÿÿÿHRMAJORZBUG
+gjavascript:S878¦"5Remove use of all comma operators in this expression.(¨Ç‡HRMAJORZ
+CODE_SMELL
+‚javascript:S2873ÑU"VThis expression might have a value which cannot be called; it might not be a function.(˜—êãHRMAJORZBUG
+šjavascript:S2692ì9"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(è±ì£úÿÿÿÿHRMAJORZ
+CODE_SMELL
+ljavascript:S878ƒK"5Remove use of all comma operators in this expression.(Õ¨Š½øÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+fjavascript:S878‡M"5Remove use of all comma operators in this expression.(ëÔèH’RMAJORZ
+CODE_SMELL
+Yjavascript:S878ĞK""Remove use of this comma operator.(Û»‚ºÿÿÿÿÿH“RMAJORZ
+CODE_SMELL
+Yjavascript:S878ÆZ""Remove use of this comma operator.(ˆè†ùÿÿÿÿH”RMAJORZ
+CODE_SMELL
+‡javascript:S2873æ]"VThis expression might have a value which cannot be called; it might not be a function.(ìÊæàøÿÿÿÿH•RMAJORZBUG
+Yjavascript:S878È""Remove use of this comma operator.(…›ˆõıÿÿÿÿH–RMAJORZ
+CODE_SMELL
+ljavascript:S878£7"5Remove use of all comma operators in this expression.(¥ü”‚üÿÿÿÿH—RMAJORZ
+CODE_SMELL
+ljavascript:S878çH"5Remove use of all comma operators in this expression.(½÷ÜÍøÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+Tjavascript:S878ÙB""Remove use of this comma operator.(ï‡ºH™RMAJORZ
+CODE_SMELL
+ljavascript:S878ĞK"5Remove use of all comma operators in this expression.(Û»‚ºÿÿÿÿÿHšRMAJORZ
+CODE_SMELL
+‡javascript:S2873î6"VThis expression might have a value which cannot be called; it might not be a function.(à¬­³üÿÿÿÿH›RMAJORZBUG
+Tjavascript:S878’A""Remove use of this comma operator.(É˜ØÀHœRMAJORZ
+CODE_SMELL
+‡javascript:S2873¦B"VThis expression might have a value which cannot be called; it might not be a function.(¶Ûš”üÿÿÿÿHRMAJORZBUG
+ljavascript:S878^"5Remove use of all comma operators in this expression.(ß™›ìıÿÿÿÿHRMAJORZ
+CODE_SMELL
+gjavascript:S878óX"5Remove use of all comma operators in this expression.(¬«’ÖHŸRMAJORZ
+CODE_SMELL
+Yjavascript:S878íP""Remove use of this comma operator.(®Ù²÷ÿÿÿÿÿH RMAJORZ
+CODE_SMELL
+Tjavascript:S878‰c""Remove use of this comma operator.(ãÂ¹ìH¡RMAJORZ
+CODE_SMELL
+fjavascript:S878ÏU"5Remove use of all comma operators in this expression.(Ï¸óH¢RMAJORZ
+CODE_SMELL
+Yjavascript:S878Ä""Remove use of this comma operator.(ùÍ™øÿÿÿÿH£RMAJORZ
+CODE_SMELL
+gjavascript:S878ÿ]"5Remove use of all comma operators in this expression.(½ÚÛöH¤RMAJORZ
+CODE_SMELL
+gjavascript:S878õT"5Remove use of all comma operators in this expression.(¾—ŒóH¥RMAJORZ
+CODE_SMELL
+Tjavascript:S878ôM""Remove use of this comma operator.(¯È…H¦RMAJORZ
+CODE_SMELL
+ljavascript:S878–U"5Remove use of all comma operators in this expression.(ØÃ×şÿÿÿÿH§RMAJORZ
+CODE_SMELL
+Yjavascript:S878¥H""Remove use of this comma operator.(Ôà™£ÿÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+gjavascript:S878Ê"5Remove use of all comma operators in this expression.(‹˜¨ãH©RMAJORZ
+CODE_SMELL
+Yjavascript:S878°""Remove use of this comma operator.( ÷¿¢ùÿÿÿÿHªRMAJORZ
+CODE_SMELL
+Yjavascript:S878¯M""Remove use of this comma operator.(ÑÙßÅøÿÿÿÿH«RMAJORZ
+CODE_SMELL
+Tjavascript:S878°""Remove use of this comma operator.(³›©öH¬RMAJORZ
+CODE_SMELL
+Tjavascript:S878Õ:""Remove use of this comma operator.(øËÀûH­RMAJORZ
+CODE_SMELL
+ljavascript:S878ñD"5Remove use of all comma operators in this expression.(ÍÂşÂÿÿÿÿÿH®RMAJORZ
+CODE_SMELL
+Yjavascript:S878§]""Remove use of this comma operator.(ƒÅäÖÿÿÿÿÿH¯RMAJORZ
+CODE_SMELL
+Yjavascript:S878µ""Remove use of this comma operator.(÷üæœùÿÿÿÿH°RMAJORZ
+CODE_SMELL
+ljavascript:S878²A"5Remove use of all comma operators in this expression.(æñ‰ƒøÿÿÿÿH±RMAJORZ
+CODE_SMELL
+javascript:S2873©Y"VThis expression might have a value which cannot be called; it might not be a function.(ÒêëcH²RMAJORZBUG
+Tjavascript:S8785""Remove use of this comma operator.(Õ×û—H³RMAJORZ
+CODE_SMELL
+gjavascript:S878ğ3"5Remove use of all comma operators in this expression.(ÇëĞH´RMAJORZ
+CODE_SMELL
+Yjavascript:S878§3""Remove use of this comma operator.(ä½×êıÿÿÿÿHµRMAJORZ
+CODE_SMELL
+Yjavascript:S878©?""Remove use of this comma operator.(Æ¤ŸÀûÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+Yjavascript:S878éI""Remove use of this comma operator.(–ÇÿúÿÿÿÿH·RMAJORZ
+CODE_SMELL
+Tjavascript:S878¼P""Remove use of this comma operator.(õŠèH¸RMAJORZ
+CODE_SMELL
+Yjavascript:S878÷f""Remove use of this comma operator.(¡ãìªÿÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+Yjavascript:S878Ğ""Remove use of this comma operator.(¢¸şìûÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Tjavascript:S878·a""Remove use of this comma operator.(¶ÉœùH»RMAJORZ
+CODE_SMELL
+‚javascript:S2873ÔJ"VThis expression might have a value which cannot be called; it might not be a function.(Ê¹˜ÿH¼RMAJORZBUG
+Tjavascript:S878Œ""Remove use of this comma operator.(¸¡Ş¢H½RMAJORZ
+CODE_SMELL
+Tjavascript:S878¦@""Remove use of this comma operator.(õ‰çûH¾RMAJORZ
+CODE_SMELL
+Tjavascript:S878âM""Remove use of this comma operator.(ÁË‚H¿RMAJORZ
+CODE_SMELL
+Tjavascript:S878¼P""Remove use of this comma operator.(õŠèHÀRMAJORZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+
+gsquid:S1610"5Convert the abstract class "Price" into an interface.(Ú¸Ç¤ûÿÿÿÿHßRMINORZ
+CODE_SMELL
+msquid:S3400	"9Remove this method and declare a constant for this value.(È¸å8Š¿£—½-HàRMINORZ
+CODE_SMELL
+esquid:S1172"1Remove this unused method parameter "daysRented".(¯°Æª8Š¿£—½-HáRMAJORZ
+CODE_SMELL

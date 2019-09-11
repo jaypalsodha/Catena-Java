@@ -1,0 +1,6 @@
+
+…squid:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(ÕÙ¹³úÿÿÿÿHÛRBLOCKERZBUG
+zsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ž–û‚ùÿÿÿÿHÜRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ê“øHÝRMAJORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+
+osquid:S2095>"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÊ×°HÕRBLOCKERZBUG
+tsquid:S2095;"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØþÿÿÿÿHÖRBLOCKERZBUG
+usquid:S37523">Add a "method" parameter to this "@RequestMapping" annotation.(Í¹‹£øÿÿÿÿH×RBLOCKERZVULNERABILITY
+psquid:S37528">Add a "method" parameter to this "@RequestMapping" annotation.(°ý¯¹HØRBLOCKERZVULNERABILITY
+¸%squid:RedundantThrowsDeclarationCheck/"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤ÞýÿÿÿÿHÙRMINORZ
+CODE_SMELL
+Qsquid:S37514"Make this method "public".(º“±ƒûÿÿÿÿHÚRBLOCKERZVULNERABILITY
+Qsquid:S37519"Make this method "public".(ÉÓ«ÿþÿÿÿÿHÛRBLOCKERZVULNERABILITY
+‹squid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(žº›€þÿÿÿÿHÜRMINORZ
+CODE_SMELL
+º%squid:RedundantThrowsDeclarationCheckN"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Ö‚Î¦üÿÿÿÿHÝRMINORZ
+CODE_SMELL

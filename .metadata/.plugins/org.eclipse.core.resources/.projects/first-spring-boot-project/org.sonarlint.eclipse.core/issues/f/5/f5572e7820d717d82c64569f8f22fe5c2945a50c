@@ -1,0 +1,4 @@
+
+…squid:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(ÕÙ¹³úÿÿÿÿH°RBLOCKERZBUG
+zsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïþÒÊûÿÿÿÿH±RMINORZ
+CODE_SMELL

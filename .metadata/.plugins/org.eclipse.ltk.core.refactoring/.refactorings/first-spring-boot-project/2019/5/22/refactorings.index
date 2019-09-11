@@ -1,0 +1,13 @@
+1558862212066	Extract local variable 'data'
+1558862882655	Extract local variable 'result'
+1558863039369	Rename type 'SomeBusinessTest'
+1558863055676	Copy compilation unit
+1558863505267	Extract local variable 'dataService'
+1558863868955	Copy compilation unit
+1558863980852	Inline local variable 'result'
+1558863984936	Inline local variable 'result'
+1559231240236	Copy file
+1559234718515	Move 3 resources to 'js'
+1559235518543	Move 2 resources to 'js'
+1559235523910	Move 'billboard.css' to 'css'
+1559235529660	Delete element

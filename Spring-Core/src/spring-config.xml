@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+	
+	<!-- learnings for spring scope i.e singleton , prototype, request, session, global session  -->
+	<bean id="student" class="com.spring.beanscope.Student" scope="prototype">
+		<property name="name" value="defult value from xml file">
+		</property>
+	</bean>
+	<!-- spring bean life cycle test  
+	init-method will be called just after object is created, 
+	destroy method will be called just before container shutdown -->
+	<bean id="exam" class="com.spring.beanlifecycle.Exam" scope="singleton" init-method="init" destroy-method="destroy">
+		<property name="name" value="default exam">
+		</property>
+	</bean>
+	<bean class="com.spring.beanlifecycle.InitExam"></bean>
+	
+	<!-- for bean inheritance concept   -->
+	<bean id="shape" class="com.spring.beaninheritance.Shape">
+		<property name="message1" value="message1 from shape"></property>
+		<property name="message2" value="message2 from shape"></property>
+	</bean>
+	<bean id="triangle" class="com.spring.beaninheritance.Triangle" parent="shape">
+		<property name="message1" value="message1 from Triangle"></property>
+		<property name="message3" value="message3 from Triangle"></property>
+	</bean>
+
+</beans>        

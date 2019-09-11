@@ -1,0 +1,13 @@
+
+^squid:S1153-"1Directly append the argument of String.valueOf().(¥…€ÆHëRMINORZ
+CODE_SMELL
+asquid:EmptyStatementUsageCheck"Remove this empty statement.(ÙüéÏ˙ˇˇˇˇHîRMINORZ
+CODE_SMELL
+Isquid:S1643("Use a StringBuilder instead.(∞Ò¡ﬁHèRMINORZ
+CODE_SMELL
+^squid:S1153."1Directly append the argument of String.valueOf().(®ÇˇHíRMINORZ
+CODE_SMELL
+^squid:S1153("1Directly append the argument of String.valueOf().(∞Ò¡ﬁHêRMINORZ
+CODE_SMELL
+Ösquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æµ¶@HìRMINORZ
+CODE_SMELL

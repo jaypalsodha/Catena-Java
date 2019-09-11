@@ -1,0 +1,23 @@
+1562605490252	Move 'version1.jpg' to 'version1_diagram'
+1562605495819	Delete element
+1562605969239	Rename field '_name'
+1562605981372	Rename field '_rentals'
+1562606047608	Rename resource 'version1.jpg'
+1562606132720	Extract local variable 'iterator'
+1562606603982	Rename local variable 'frequentRenterPoints'
+1562607890074	Rename field '_movie'
+1562607898034	Rename field '_daysRented'
+1562608329249	Copy compilation units
+1562608388752	Extract method 'amountFor'
+1562608666052	Rename package 'version6'
+1562608677203	Copy compilation units
+1562608698822	Rename local variable 'each'
+1562608712907	Rename local variable 'thisAmount'
+1562609118830	Copy compilation units
+1562609474999	Delete element
+1562609482948	Copy compilation units
+1562609602791	Extract method 'getRewardPoints'
+1562609638961	Move method 'getRewardPoints'
+1562609832936	Copy compilation units
+1562610592638	Rename method 'getFrequentRewardPoints'
+1562611015626	Copy compilation units

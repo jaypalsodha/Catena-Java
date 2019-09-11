@@ -1,0 +1,14 @@
+1567325249123	Rename type 'Client'
+1567325278422	Move compilation unit
+1567325283397	Move compilation unit
+1567342546383	Extract local variable 'applicationContext'
+1567343424371	Delete element
+1567344141336	Copy file
+1567345744987	Extract local variable 'applicationContextForSetter'
+1567347959480	Delete element
+1567347965228	Copy compilation units
+1567348035654	Copy file
+1567348226234	Extract local variable 'applicationContextForConstructor'
+1567356987692	Copy file
+1567357016768	Copy compilation units
+1567357196487	Extract local variable 'applicationContextForAutoWired'

@@ -1,0 +1,6 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒãÇÔøÿÿÿÿHÆRMINORZ
+CODE_SMELL
+…squid:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(ÕÙ¹³úÿÿÿÿHÇRBLOCKERZBUG
+zsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïşÒÊûÿÿÿÿHÈRMINORZ
+CODE_SMELL

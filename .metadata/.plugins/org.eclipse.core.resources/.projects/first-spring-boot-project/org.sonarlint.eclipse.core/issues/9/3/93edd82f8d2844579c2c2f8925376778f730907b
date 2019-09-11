@@ -1,0 +1,34 @@
+
+Šsquid:S1192I"UDefine a constant instead of duplicating this literal "redirect:/list-todos" 3 times.(·¢„õÿÿÿÿÿHÃRCRITICALZ
+CODE_SMELL
+zsquid:S4488L"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ô¤çÉÿÿÿÿÿHÄRMINORZ
+CODE_SMELL
+tsquid:S4488:"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–ÁÈpHÅRMINORZ
+CODE_SMELL
+|squid:S4488@"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‡®ŠîøÿÿÿÿHÆRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ž­Žø8Þú”ó·-HÇRMAJORZ
+CODE_SMELL
+~squid:S1192="IDefine a constant instead of duplicating this literal "add-todo" 4 times.(æ½íŒúÿÿÿÿHÈRCRITICALZ
+CODE_SMELL
+zsquid:S4684^"@Replace this persistent entity with a simple POJO or DTO object.(ôÏ´è8Û«“ó·-HÉRCRITICALZVULNERABILITY
+~squid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(Œ”
+8½ÆÂô·-HÊRMAJORZ
+CODE_SMELL
+esquid:S1135F"2Complete the task associated to this TODO comment.(ž­Žø8Þú”ó·-HËRINFOZ
+CODE_SMELL
+zsquid:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·„ ŒøÿÿÿÿHÌRMINORZ
+CODE_SMELL
+zsquid:S4684A"@Replace this persistent entity with a simple POJO or DTO object.(ƒì”»8Û«“ó·-HÍRCRITICALZVULNERABILITY
+…squid:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(ÕÙ¹³úÿÿÿÿHÎRBLOCKERZBUG
+tsquid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.(‰Ê¹§HÏRMAJORZ
+CODE_SMELL
+e
+squid:S106,"9Replace this use of System.out or System.err by a logger.(«‹ÎõHÐRMAJORZ
+CODE_SMELL
+usquid:S4488V"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÇöÚ§HÑRMINORZ
+CODE_SMELL
+|squid:S4488]"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ëëËáúÿÿÿÿHÒRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(“·Ä8à‡¤ô·-HÓRMAJORZ
+CODE_SMELL

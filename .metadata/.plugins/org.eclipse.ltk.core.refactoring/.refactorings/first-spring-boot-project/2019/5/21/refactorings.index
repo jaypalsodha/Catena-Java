@@ -1,0 +1,23 @@
+1558543768361	Copy file
+1558544260699	Copy compilation unit
+1558633087745	Copy file
+1558633106006	Copy compilation unit
+1558634739839	Extract local variable 'object'
+1558635612463	Copy file
+1558638182607	Rename field 'isDone'
+1558764793324	Copy file
+1558764806506	Copy file
+1558766602234	Move 'common' to 'jsp'
+1558769416271	Extract method 'getLoggedinUserName'
+1558773960184	Extract local variable 'principal'
+1558775180047	Delete element
+1558775242378	Rename type 'LoginController'
+1558775266719	Rename method 'showLoginPage'
+1558775837531	Copy compilation unit
+1558775987709	Extract local variable 'authentication'
+1558777436494	Copy compilation unit
+1558778136372	Copy file
+1558783921752	Delete element
+1558796848188	Copy compilation unit
+1558797384983	Copy file
+1558797613535	Delete element
